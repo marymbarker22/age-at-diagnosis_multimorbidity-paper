@@ -1,0 +1,1810 @@
+source	type	variable	value	term
+Aurum	Medcode	SMOK_CURR	102921000006112	Tobacco smoking consumption (observable entity)
+Aurum	Medcode	SMOK_CURR	108938018	Cigarette smoker (finding)
+Aurum	Medcode	SMOK_CURR	11904991000006116	Occasional cigarette smoker (finding)
+Aurum	Medcode	SMOK_CURR	128130017	Smoker (finding)
+Aurum	Medcode	SMOK_CURR	136515019	Pipe smoker (finding)
+Aurum	Medcode	SMOK_CURR	137721000006115	Tobacco smoking consumption (observable entity)
+Aurum	Medcode	SMOK_CURR	137791000006118	Smoking restarted (finding)
+Aurum	Medcode	SMOK_CURR	1488576014	Thinking about stopping smoking (finding)
+Aurum	Medcode	SMOK_CURR	1488577017	Ready to stop smoking (finding)
+Aurum	Medcode	SMOK_CURR	1488578010	Not interested in stopping smoking (finding)
+Aurum	Medcode	SMOK_CURR	1592611000000110	Failed attempt to stop smoking (finding)
+Aurum	Medcode	SMOK_CURR	1780360012	Reason for restarting smoking (observable entity)
+Aurum	Medcode	SMOK_CURR	1780396011	Cigarette pack-years (observable entity)
+Aurum	Medcode	SMOK_CURR	216212011	Smoking reduced (finding)
+Aurum	Medcode	SMOK_CURR	2170961000000116	Waterpipe tobacco consumption (observable entity)
+Aurum	Medcode	SMOK_CURR	2474719011	Minutes from waking to first tobacco consumption (observable entity)
+Aurum	Medcode	SMOK_CURR	250368013	Keeps trying to stop smoking (finding)
+Aurum	Medcode	SMOK_CURR	250369017	Admitted tobacco consumption possibly untrue (finding)
+Aurum	Medcode	SMOK_CURR	250372012	Trying to give up smoking (finding)
+Aurum	Medcode	SMOK_CURR	250375014	Rolls own cigarettes (finding)
+Aurum	Medcode	SMOK_CURR	250387019	Tobacco smoking consumption (observable entity)
+Aurum	Medcode	SMOK_CURR	2669652019	Smoking started (finding)
+Aurum	Medcode	SMOK_CURR	2670126018	Smoking restarted (finding)
+Aurum	Medcode	SMOK_CURR	3419101000006116	Moderate smoker (20 or less per day) (finding)
+Aurum	Medcode	SMOK_CURR	3422221000006116	Heavy smoker (over 20 per day) (finding)
+Aurum	Medcode	SMOK_CURR	344793011	Cigarette consumption (observable entity)
+Aurum	Medcode	SMOK_CURR	344794017	Cigar consumption (observable entity)
+Aurum	Medcode	SMOK_CURR	344795016	Pipe tobacco consumption (observable entity)
+Aurum	Medcode	SMOK_CURR	397733018	Occasional tobacco smoker (finding)
+Aurum	Medcode	SMOK_CURR	4948531000006116	Smokes in bed (finding)
+Aurum	Medcode	SMOK_CURR	5003141000006118	Occasional cigarette smoker (finding)
+Aurum	Medcode	SMOK_CURR	5003151000006116	Light cigarette smoker (finding)
+Aurum	Medcode	SMOK_CURR	5003161000006119	Moderate cigarette smoker (finding)
+Aurum	Medcode	SMOK_CURR	5003171000006114	Heavy cigarette smoker (finding)
+Aurum	Medcode	SMOK_CURR	5003181000006112	Very heavy cigarette smoker (finding)
+Aurum	Medcode	SMOK_CURR	5003191000006110	Chain smoker (finding)
+Aurum	Medcode	SMOK_CURR	503483019	Smoker (finding)
+Aurum	Medcode	SMOK_CURR	5495901000006112	Tobacco smoking consumption (observable entity)
+Aurum	Medcode	SMOK_CURR	5495941000006114	Trivial cigarette smoker (less than one cigarette/day) (finding)
+Aurum	Medcode	SMOK_CURR	5495951000006111	Trivial cigarette smoker (less than one cigarette/day) (finding)
+Aurum	Medcode	SMOK_CURR	67621000006112	Very heavy cigarette smoker (40+ cigs/day) (finding)
+Aurum	Medcode	SMOK_CURR	700121000006118	Moderate cigarette smoker (10-19 cigs/day) (finding)
+Aurum	Medcode	SMOK_CURR	7375991000006118	Smokes tobacco daily (finding)
+Aurum	Medcode	SMOK_CURR	743331000006116	Light cigarette smoker (1-9 cigs/day) (finding)
+Aurum	Medcode	SMOK_CURR	8063181000006116	Wants to stop smoking (finding)
+Aurum	Medcode	SMOK_CURR	8153371000006117	Occasional tobacco smoker (finding)
+Aurum	Medcode	SMOK_CURR	819331000006110	Heavy cigarette smoker (20-39 cigs/day) (finding)
+Aurum	Medcode	SMOK_CURR	88471000006112	Trivial cigarette smoker (less than one cigarette/day) (finding)
+Aurum	Medcode	SMOK_CURR	99639019	Cigar smoker (finding)
+Aurum	Medcode	SMOK_EX	1059701000000119	Ex roll-up cigarette smoker (finding)
+Aurum	Medcode	SMOK_EX	250363016	Ex-trivial cigarette smoker (<1/day) (finding)
+Aurum	Medcode	SMOK_EX	250364010	Ex-light cigarette smoker (1-9/day) (finding)
+Aurum	Medcode	SMOK_EX	250365011	Ex-moderate cigarette smoker (10-19/day) (finding)
+Aurum	Medcode	SMOK_EX	250366012	Ex-heavy cigarette smoker (20-39/day) (finding)
+Aurum	Medcode	SMOK_EX	250367015	Ex-very heavy cigarette smoker (40+/day) (finding)
+Aurum	Medcode	SMOK_EX	250371017	Ex-smoker (finding)
+Aurum	Medcode	SMOK_EX	250373019	Stopped smoking (finding)
+Aurum	Medcode	SMOK_EX	250385010	Date ceased smoking (observable entity)
+Aurum	Medcode	SMOK_EX	2636041000006110	Ex-smoker (finding)
+Aurum	Medcode	SMOK_EX	298701000000114	Ex-smoker (finding)
+Aurum	Medcode	SMOK_EX	3513101011	Date ceased using moist tobacco (observable entity)
+Aurum	Medcode	SMOK_EX	3513199018	Ex-smoker for less than 1 year (finding)
+Aurum	Medcode	SMOK_EX	418914010	Ex-cigarette smoker (finding)
+Aurum	Medcode	SMOK_EX	4980561000006117	Time since stopped smoking (observable entity)
+Aurum	Medcode	SMOK_EX	5496031000006112	Ex-cigarette smoker amount unknown (finding)
+Aurum	Medcode	SMOK_EX	6217151000006116	Intolerant ex-smoker (finding)
+Aurum	Medcode	SMOK_EX	6217281000006116	Aggressive ex-smoker (finding)
+Aurum	Medcode	SMOK_EX	649821000006115	Ex-cigar smoker (finding)
+Aurum	Medcode	SMOK_EX	649831000006117	Ex-pipe smoker (finding)
+Aurum	Medcode	SMOK_EX	649841000006110	Ex-smoker (finding)
+Aurum	Medcode	SMOK_EX	8017571000006117	Ex-smoker for more than 1 year (finding)
+Aurum	Medcode	SMOK_EX	903041000006110	Ex-cigarette smoker amount unknown (finding)
+Aurum	Medcode	SMOK_NEVER	397732011	Never smoked tobacco (finding)
+Aurum	Medcode	SMOK_NEVER	5495921000006119	Never smoked tobacco (finding)
+Aurum	Medcode	SMOK_NEVER	7965041000006111	Never smoked any substance (finding)
+Aurum	Medcode	TYPE 1 DIABETES	11903141000006112	Diabetic oculopathy associated with type I diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	11927551000006116	Insulin dependent diabetes mellitus with ulcer
+Aurum	Medcode	TYPE 1 DIABETES	12085801000006112	Macular oedema due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12085811000006112	Macular edema due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12085821000006116	Macular edema co-occurrent and due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12085831000006116	Macular oedema co-occurrent and due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12102631000006116	Cranial nerve palsy with type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12102641000006114	Cranial nerve palsy due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12102651000006112	Cranial nerve palsy with type I diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12102661000006112	Cranial nerve palsy co-occurrent and due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12331221000006112	Exudative maculopathy with type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12331231000006110	Exudative maculopathy co-occurrent and due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12332271000006116	Retinopathy with type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12332281000006120	Retinopathy co-occurrent and due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12332751000006116	Mononeuropathy with type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12332761000006118	Mononeuropathy co-occurrent and due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12334611000006116	Neurological disorder with type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12334621000006112	Neurological disorder co-occurrent and due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12336111000006120	Cataract due to diabetes mellitus type 1
+Aurum	Medcode	TYPE 1 DIABETES	12336121000006110	Cataract co-occurrent and due to diabetes mellitus type 1
+Aurum	Medcode	TYPE 1 DIABETES	12345461000006120	Lumbosacral radiculoplexus neuropathy with type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12345471000006114	Lumbosacral radiculoplexus neuropathy co-occurrent and due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12345481000006112	Lumbosacral radiculoplexus neuropathy with type I diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12363201000006114	Autonomic neuropathy with type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12363211000006112	Autonomic neuropathy co-occurrent and due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12363221000006116	Autonomic neuropathy with type I diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12363661000006112	Gastroparesis with type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12363671000006118	Gastroparesis co-occurrent and due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12363721000006110	Polyneuropathy co-occurrent and due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12370271000006116	Disorder of eye with type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12370281000006118	Disorder of eye co-occurrent and due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12370361000006118	Erectile dysfunction with type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12370371000006112	Erectile dysfunction co-occurrent and due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12370611000006112	Nonproliferative retinopathy co-occurrent and due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12370621000006116	Blindness co-occurrent and due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12370631000006116	Peripheral neuropathy with type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12370711000006116	Traction retinal detachment with type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12370721000006112	Traction retinal detachment co-occurrent and due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12370731000006114	Rubeosis iridis with type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12370741000006116	Rubeosis iridis co-occurrent and due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12370791000006112	Retinal ischaemia with type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12370801000006114	Retinal ischemia with type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12370811000006112	Retinal ischaemia co-occurrent and due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12370821000006116	Retinal ischemia co-occurrent and due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12370871000006116	Retinal oedema with type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12370881000006116	Retinal edema with type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12370891000006120	Retinal oedema co-occurrent and due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12370901000006116	Retinal edema co-occurrent and due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12370931000006112	Mild nonproliferative retinopathy co-occurrent and due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12370941000006118	Moderate nonproliferative retinopathy co-occurrent and due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12450761000006110	Type I diabetes mellitus with gangrene
+Aurum	Medcode	TYPE 1 DIABETES	12489581000006110	Type 1 diabetes mellitus with gangrene
+Aurum	Medcode	TYPE 1 DIABETES	12702361000006112	Diabetic cataract associated with type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12702371000006116	Mononeuropathy associated with type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12702381000006118	Diabetic oculopathy due to type I diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12704941000006116	Neurological disorder associated with type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12704951000006116	Diabetic retinopathy associated with type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12705001000006120	Exudative maculopathy associated with type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	12705071000006112	Gastroparesis due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	1667941000000112	Type I diabetes mellitus with gastroparesis
+Aurum	Medcode	TYPE 1 DIABETES	1780311019	Type 1 diabetes mellitus with persistent microalbuminuria
+Aurum	Medcode	TYPE 1 DIABETES	197984010	Type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	2288011000000114	Type I diabetes mellitus in remission
+Aurum	Medcode	TYPE 1 DIABETES	2288041000000110	Type 1 diabetes mellitus in remission
+Aurum	Medcode	TYPE 1 DIABETES	2476117016	Maturity onset diabetes in youth type 1
+Aurum	Medcode	TYPE 1 DIABETES	2867421000006114	Insulin dependent diabetes mellitus type 1A
+Aurum	Medcode	TYPE 1 DIABETES	2867431000006112	Insulin dependent diabetes mellitus type IA
+Aurum	Medcode	TYPE 1 DIABETES	292482014	Diabetes mellitus, juvenile type, with hyperosmolar coma
+Aurum	Medcode	TYPE 1 DIABETES	292538019	Type I diabetes mellitus with ulcer
+Aurum	Medcode	TYPE 1 DIABETES	292540012	Type 1 diabetes mellitus with ulcer
+Aurum	Medcode	TYPE 1 DIABETES	292541011	Type 1 diabetes mellitus with gangrene
+Aurum	Medcode	TYPE 1 DIABETES	292543014	Type I diabetes mellitus with gangrene
+Aurum	Medcode	TYPE 1 DIABETES	292548017	Type 1 diabetes mellitus - poor control
+Aurum	Medcode	TYPE 1 DIABETES	292550013	Type I diabetes mellitus - poor control
+Aurum	Medcode	TYPE 1 DIABETES	292551012	Type I diabetes mellitus maturity onset
+Aurum	Medcode	TYPE 1 DIABETES	292553010	Type 1 diabetes mellitus maturity onset
+Aurum	Medcode	TYPE 1 DIABETES	2949871000006119	Insulin dependent diabetes mellitus type 1B
+Aurum	Medcode	TYPE 1 DIABETES	2949881000006116	Insulin dependent diabetes mellitus type IB
+Aurum	Medcode	TYPE 1 DIABETES	2949891000006118	Primary autoimmune diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	299601000000114	Gastroparesis with type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	306112011	Pre-existing diabetes mellitus, insulin-dependent
+Aurum	Medcode	TYPE 1 DIABETES	3253231000006110	Diabetes mellitus type I
+Aurum	Medcode	TYPE 1 DIABETES	3253241000006117	Diabetes mellitus type 1
+Aurum	Medcode	TYPE 1 DIABETES	3522045015	Hyperosmolarity due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	3526507010	Disorder of nerve co-occurrent and due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	3537388019	Diabetic oculopathy due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	429970018	Unstable type I diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	429971019	Unstable type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	429972014	Unstable insulin dependent diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	457325013	Type I diabetes mellitus without complication
+Aurum	Medcode	TYPE 1 DIABETES	457326014	Type 1 diabetes mellitus without complication
+Aurum	Medcode	TYPE 1 DIABETES	457327017	Insulin-dependent diabetes without complication
+Aurum	Medcode	TYPE 1 DIABETES	459161015	Type 1 diabetes mellitus with hypoglycaemic coma
+Aurum	Medcode	TYPE 1 DIABETES	459162010	Insulin dependent diabetes mellitus with hypoglycaemic coma
+Aurum	Medcode	TYPE 1 DIABETES	459163017	Type I diabetes mellitus with hypoglycaemic coma
+Aurum	Medcode	TYPE 1 DIABETES	459292011	Type 1 diabetes mellitus with arthropathy
+Aurum	Medcode	TYPE 1 DIABETES	459293018	Insulin dependent diabetes mellitus with arthropathy
+Aurum	Medcode	TYPE 1 DIABETES	459294012	Type I diabetes mellitus with arthropathy
+Aurum	Medcode	TYPE 1 DIABETES	459295013	Type I diabetes mellitus with neuropathic arthropathy
+Aurum	Medcode	TYPE 1 DIABETES	459296014	Type 1 diabetes mellitus with neuropathic arthropathy
+Aurum	Medcode	TYPE 1 DIABETES	4757991000006116	Type 1 diabetes mellitus with hyperosmolar coma
+Aurum	Medcode	TYPE 1 DIABETES	4758061000006110	Insulin-dependent diabetes mellitus with ulcer
+Aurum	Medcode	TYPE 1 DIABETES	4758081000006117	Insulin-dependent diabetes mellitus with gangrene
+Aurum	Medcode	TYPE 1 DIABETES	4758121000006115	Insulin-dependent diabetes maturity onset
+Aurum	Medcode	TYPE 1 DIABETES	479511000000117	Diabetes type 1 review
+Aurum	Medcode	TYPE 1 DIABETES	494564012	Type I diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	5754581000006110	Brittle type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	5754611000006119	Brittle type I diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	5754621000006110	Labile type I diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	5933621000006118	Perceived control of insulin-dependent diabetes
+Aurum	Medcode	TYPE 1 DIABETES	6030001000006116	Insulin-dependent diabetes without complication
+Aurum	Medcode	TYPE 1 DIABETES	6050041000006115	Insulin dependent diabetes mellitus with hypoglycaemic coma
+Aurum	Medcode	TYPE 1 DIABETES	6050061000006116	Type I diabetes mellitus with hypoglycemic coma
+Aurum	Medcode	TYPE 1 DIABETES	6050071000006111	Insulin dependent diabetes mellitus with hypoglycemic coma
+Aurum	Medcode	TYPE 1 DIABETES	6050081000006114	Type 1 diabetes mellitus with hypoglycemic coma
+Aurum	Medcode	TYPE 1 DIABETES	6051171000006117	Insulin dependent diabetes mellitus with arthropathy
+Aurum	Medcode	TYPE 1 DIABETES	616591000006117	Diabetes mellitus, juvenile +peripheral circulatory disorder
+Aurum	Medcode	TYPE 1 DIABETES	616601000006113	Diabetes mellitus, juvenile type, + ophthalmic manifestation
+Aurum	Medcode	TYPE 1 DIABETES	616611000006111	Disorder due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	616621000006115	Type 1 diabetes mellitus without complication
+Aurum	Medcode	TYPE 1 DIABETES	616641000006110	Diabetes mellitus, juvenile type, with ketoacidosis
+Aurum	Medcode	TYPE 1 DIABETES	616651000006112	Diabetes mellitus, juvenile type, with ketoacidotic coma
+Aurum	Medcode	TYPE 1 DIABETES	616661000006114	Diabetes mellitus, juvenile type, with renal manifestation
+Aurum	Medcode	TYPE 1 DIABETES	616671000006119	Diabetes mellitus, juvenile, + neurological manifestation
+Aurum	Medcode	TYPE 1 DIABETES	616681000006116	Diabetes mellitus, juvenile, + other specified manifestation
+Aurum	Medcode	TYPE 1 DIABETES	6951081000006112	Ketoacidosis in type I diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	6951091000006110	Diabetes type 1 with ketoacidosis
+Aurum	Medcode	TYPE 1 DIABETES	6954991000006112	Exudative maculopathy associated with type I diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	6955501000006113	Persistent proteinuria associated with type I diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	6960431000006119	Diabetic retinopathy associated with type I diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	6960441000006112	Diabetes type 1 with retinopathy
+Aurum	Medcode	TYPE 1 DIABETES	6961081000006118	Gangrene associated with type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	6961091000006115	Gangrene associated with type I diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	6961101000006114	Diabetes type 1 with gangrene
+Aurum	Medcode	TYPE 1 DIABETES	6961901000006111	Disorder associated with type I diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	6962751000006117	Mononeuropathy associated with type I diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	6965561000006116	Ketoacidotic coma in type I diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	6965571000006111	Diabetes mellitus type 1 with ketoacidotic coma
+Aurum	Medcode	TYPE 1 DIABETES	6967091000006111	Diabetic oculopathy associated with type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	6969521000006113	Persistent microalbuminuria associated with type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	6969531000006111	Persistent microalbuminuria associated with type I diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	6970621000006114	Peripheral circulatory disorder associated with type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	6970631000006112	Peripheral circulatory disorder associated with type I diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	6971871000006117	Hypoglycaemic coma in type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	6971881000006119	Hypoglycemic coma in type I diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	6971891000006116	Hypoglycaemic coma in type I diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	6971901000006117	Hypoglycemic coma in type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	6971911000006119	Diabetes type 1 with hypoglycemic coma
+Aurum	Medcode	TYPE 1 DIABETES	6971921000006110	Diabetes type 1 with hypoglycaemic coma
+Aurum	Medcode	TYPE 1 DIABETES	6972441000006117	Neurological disorder associated with type I diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	6972451000006115	Diabetes type 1 with neurological disorder
+Aurum	Medcode	TYPE 1 DIABETES	6979991000006111	Renal disorder associated with type I diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	6980001000006117	Kidney disorder associated with type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	6980431000006116	Diabetic cataract associated with type I diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	6980441000006114	Diabetes type 1 with cataract
+Aurum	Medcode	TYPE 1 DIABETES	6986151000006117	Multiple complications of type I diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	7066041000006112	Small vessel disease due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	7066051000006114	Diabetes type 1 with small vessel disease
+Aurum	Medcode	TYPE 1 DIABETES	7075891000006110	Amyotrophy due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	7095251000006110	Hyperosmolality due to uncontrolled type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	7098211000006116	Dietary education for type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	7098221000006112	Dietary education for type I diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	7098231000006110	Dietary advice for type I diabetes
+Aurum	Medcode	TYPE 1 DIABETES	7098241000006117	Dietary advice for type 1 diabetes
+Aurum	Medcode	TYPE 1 DIABETES	72651000006114	Unstable insulin dependent diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	72711000006117	Unstable type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	72721000006113	Unstable type I diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	7287611000006113	Type 1 diabetes mellitus uncontrolled
+Aurum	Medcode	TYPE 1 DIABETES	7287621000006117	Type I diabetes mellitus uncontrolled
+Aurum	Medcode	TYPE 1 DIABETES	7287641000006112	Type 1 diabetes mellitus well controlled
+Aurum	Medcode	TYPE 1 DIABETES	7287651000006114	Type I diabetes mellitus well controlled
+Aurum	Medcode	TYPE 1 DIABETES	746791000006111	Insulin-dependent diabetes without complication
+Aurum	Medcode	TYPE 1 DIABETES	7480691000006118	H/O diabetes mellitus type 1
+Aurum	Medcode	TYPE 1 DIABETES	7480701000006118	History of diabetes mellitus type I
+Aurum	Medcode	TYPE 1 DIABETES	7480711000006115	History of diabetes mellitus type 1
+Aurum	Medcode	TYPE 1 DIABETES	7500191000006118	Maturity onset diabetes of the young, type 1
+Aurum	Medcode	TYPE 1 DIABETES	7500221000006113	Pre-existing type 1 diabetes mellitus in pregnancy
+Aurum	Medcode	TYPE 1 DIABETES	7500251000006116	Pregnancy and type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	7609841000006119	Neuropathy due to unstable diabetes mellitus type 1
+Aurum	Medcode	TYPE 1 DIABETES	7609851000006117	Neuropathy due to brittle type I diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	7609881000006113	Retinopathy due to unstable diabetes mellitus type 1
+Aurum	Medcode	TYPE 1 DIABETES	7609891000006111	Retinopathy due to brittle type I diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	7696791000006110	Diabetic autonomic neuropathy due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	7708051000006112	Gastroparesis due to diabetes mellitus type I
+Aurum	Medcode	TYPE 1 DIABETES	7708091000006118	Polyneuropathy due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	771331000006116	Insulin dependent diabetes mellitus with arthropathy
+Aurum	Medcode	TYPE 1 DIABETES	771341000006114	Insulin dependent diabetes mellitus with diabetic cataract
+Aurum	Medcode	TYPE 1 DIABETES	771351000006111	Insulin dependent diabetes mellitus with gangrene
+Aurum	Medcode	TYPE 1 DIABETES	771361000006113	Insulin dependent diabetes mellitus with hypoglycaemic coma
+Aurum	Medcode	TYPE 1 DIABETES	771371000006118	Insulin dependent diabetes mellitus with mononeuropathy
+Aurum	Medcode	TYPE 1 DIABETES	771381000006115	Insulin dependent diabetes mellitus with multiple complicatn
+Aurum	Medcode	TYPE 1 DIABETES	771391000006117	Insulin dependent diabetes mellitus with nephropathy
+Aurum	Medcode	TYPE 1 DIABETES	771401000006115	Insulin dependent diabetes mellitus with polyneuropathy
+Aurum	Medcode	TYPE 1 DIABETES	771411000006117	Insulin dependent diabetes mellitus with retinopathy
+Aurum	Medcode	TYPE 1 DIABETES	771421000006113	Insulin dependent diabetes mellitus with ulcer
+Aurum	Medcode	TYPE 1 DIABETES	771481000006112	Insulin-dependent diabetes mellitus with neurological comps
+Aurum	Medcode	TYPE 1 DIABETES	771491000006110	Insulin-dependent diabetes mellitus with ophthalmic comps
+Aurum	Medcode	TYPE 1 DIABETES	771501000006119	Insulin-dependent diabetes mellitus with renal complications
+Aurum	Medcode	TYPE 1 DIABETES	772151000006116	Insulin dependent diabetes maturity onset
+Aurum	Medcode	TYPE 1 DIABETES	772161000006119	Insulin dependent diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	772171000006114	Insulin dependent diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	772181000006112	Insulin dependent diabetes mellitus - poor control
+Aurum	Medcode	TYPE 1 DIABETES	77727018	Insulin dependent diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	7790701000006111	Maternal history of diabetes mellitus type 1
+Aurum	Medcode	TYPE 1 DIABETES	7814941000006115	Acidosis due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	787111000006112	IDDM-Insulin dependent diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	7966541000006112	Diabetic erectile dysfunction associated with type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	7966551000006114	Erectile dysfunction associated with type I diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	7969211000006115	Mixed hyperlipidaemia due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	7969221000006111	Mixed hyperlipidemia due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8006221000006115	Microalbuminuria due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8014491000006111	Peripheral vascular disease due to type I diabetes
+Aurum	Medcode	TYPE 1 DIABETES	8014501000006115	Diabetes mellitus type 1 without retinopathy
+Aurum	Medcode	TYPE 1 DIABETES	8019521000006112	Nonproliferative diabetic retinopathy due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8019531000006110	Proliferative retinopathy due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8019541000006117	Blindness due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8022401000006115	Hypertension in chronic kidney disease due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8022411000006117	Hypertension in chronic kidney disease due to type I diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8022431000006111	Nephrotic syndrome due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8022441000006118	Neuropathic arthropathy due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8022461000006119	Diabetic neuropathic arthropathy due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8022471000006114	Diabetes mellitus type 1 with diabetic Charcot's arthropathy
+Aurum	Medcode	TYPE 1 DIABETES	8022481000006112	Peripheral neuropathy due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8022491000006110	Peripheral neuropathy co-occurrent and due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8022541000006117	Diabetic dermopathy due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8022551000006115	Severe malnutrition due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8022561000006118	Osteomyelitis due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8022601000006118	Chronic ulcer of skin due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8024761000006118	Traction retinal detachment due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8024771000006113	Rubeosis iridis due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8025171000006111	Hypoglycaemia due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8025181000006114	Hypoglycemia due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8026051000006110	Ankle ulcer due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8026061000006112	Heel AND/OR midfoot ulcer due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8026071000006117	Forefoot ulcer due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8027391000006115	Chronic kidney disease stage 1 due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8027401000006118	Chronic kidney disease stage 1 due to type I diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8027411000006115	Chronic kidney disease stage 2 due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8027421000006111	Chronic kidney disease stage 2 due to type I diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8027451000006119	Chronic kidney disease stage 3 due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8027461000006117	Chronic kidney disease stage 3 due to type I diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8027471000006112	Chronic kidney disease stage 4 due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8027481000006110	Chronic kidney disease stage 4 due to type I diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8027491000006113	Chronic kidney disease stage 5 due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8027501000006117	Chronic kidney disease stage 5 due to type I diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8027511000006119	End stage renal disease on dialysis due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8030331000006117	Chronic kidney disease due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8030341000006110	Chronic kidney disease due to type I diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8032081000006115	Sensory neuropathy due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8032731000006119	Retinal ischaemia due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8032741000006112	Retinal ischemia due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8032751000006114	Diabetic vitreous haemorrhage due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8032761000006111	Vitreous haemorrhage due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8032771000006116	Vitreous hemorrhage due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8032781000006118	Diabetic vitreous hemorrhage due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8034431000006118	Retinal oedema due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8034441000006111	Retinal edema due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8034841000006114	Ulcer of lower limb due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8037821000006110	Hypoglycaemic unawareness in type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8037831000006113	Hypoglycemic unawareness in type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8040341000006111	Hypertension concurrent and due to end stage renal disease on dialysis due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8043321000006114	Hyperlipidaemia due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8043331000006112	Hyperlipidemia due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8043591000006119	Mild nonproliferative retinopathy due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8043601000006110	Moderate nonproliferative retinopathy due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8050091000006115	Foot ulcer due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8077141000006113	Proteinuria due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8119331000006114	Hyperglycaemia due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8119341000006116	Hyperglycemia due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8120371000006113	Dyslipidemia due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	8232101000006117	Referral to type I diabetes structured education programme
+Aurum	Medcode	TYPE 1 DIABETES	8232111000006119	Referral to type 1 diabetes structured education programme
+Aurum	Medcode	TYPE 1 DIABETES	84281000006115	Type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	84291000006117	Type 1 diabetes mellitus - poor control
+Aurum	Medcode	TYPE 1 DIABETES	84301000006116	Type 1 diabetes mellitus maturity onset
+Aurum	Medcode	TYPE 1 DIABETES	84311000006118	Type 1 diabetes mellitus with arthropathy
+Aurum	Medcode	TYPE 1 DIABETES	84321000006114	Type 1 diabetes mellitus with diabetic cataract
+Aurum	Medcode	TYPE 1 DIABETES	84331000006112	Type 1 diabetes mellitus with gangrene
+Aurum	Medcode	TYPE 1 DIABETES	84341000006119	Type 1 diabetes mellitus with hypoglycaemic coma
+Aurum	Medcode	TYPE 1 DIABETES	84351000006117	Type 1 diabetes mellitus with mononeuropathy
+Aurum	Medcode	TYPE 1 DIABETES	84361000006115	Type 1 diabetes mellitus with multiple complications
+Aurum	Medcode	TYPE 1 DIABETES	84371000006110	Type 1 diabetes mellitus with nephropathy
+Aurum	Medcode	TYPE 1 DIABETES	84381000006113	Type 1 diabetes mellitus with neurological complications
+Aurum	Medcode	TYPE 1 DIABETES	84391000006111	Type 1 diabetes mellitus with neuropathic arthropathy
+Aurum	Medcode	TYPE 1 DIABETES	84401000006113	Type 1 diabetes mellitus with ophthalmic complications
+Aurum	Medcode	TYPE 1 DIABETES	8440231000006115	Eating disorder co-occurrent with diabetes mellitus type 1
+Aurum	Medcode	TYPE 1 DIABETES	8440241000006113	ED-DMT1 - Eating disorder-diabetes mellitus type 1
+Aurum	Medcode	TYPE 1 DIABETES	84411000006111	Type 1 diabetes mellitus with peripheral angiopathy
+Aurum	Medcode	TYPE 1 DIABETES	84421000006115	Type 1 diabetes mellitus with polyneuropathy
+Aurum	Medcode	TYPE 1 DIABETES	84431000006117	Type 1 diabetes mellitus with renal complications
+Aurum	Medcode	TYPE 1 DIABETES	84441000006110	Type 1 diabetes mellitus with retinopathy
+Aurum	Medcode	TYPE 1 DIABETES	84451000006112	Type 1 diabetes mellitus with ulcer
+Aurum	Medcode	TYPE 1 DIABETES	84461000006114	Type 1 diabetes mellitus without complication
+Aurum	Medcode	TYPE 1 DIABETES	84651000006114	Type I diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	84661000006111	Type I diabetes mellitus poorly controlled
+Aurum	Medcode	TYPE 1 DIABETES	84671000006116	Type I diabetes mellitus maturity onset
+Aurum	Medcode	TYPE 1 DIABETES	84681000006118	Type I diabetes mellitus with arthropathy
+Aurum	Medcode	TYPE 1 DIABETES	84691000006115	Cataract due to diabetes mellitus type 1
+Aurum	Medcode	TYPE 1 DIABETES	84701000006115	Type I diabetes mellitus with gangrene
+Aurum	Medcode	TYPE 1 DIABETES	84711000006117	Type I diabetes mellitus with hypoglycaemic coma
+Aurum	Medcode	TYPE 1 DIABETES	84721000006113	Mononeuropathy with type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	84731000006111	Multiple complications of type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	84741000006118	Type I diabetes mellitus with nephropathy
+Aurum	Medcode	TYPE 1 DIABETES	84751000006116	Type I diabetes mellitus with neurological complications
+Aurum	Medcode	TYPE 1 DIABETES	84761000006119	Type I diabetes mellitus with neuropathic arthropathy
+Aurum	Medcode	TYPE 1 DIABETES	84771000006114	Disorder of eye with type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	84781000006112	Type I diabetes mellitus with peripheral angiopathy
+Aurum	Medcode	TYPE 1 DIABETES	84791000006110	Polyneuropathy due to diabetes mellitus type I
+Aurum	Medcode	TYPE 1 DIABETES	84801000006111	Type I diabetes mellitus with renal complications
+Aurum	Medcode	TYPE 1 DIABETES	84811000006114	Type I diabetes mellitus with retinopathy
+Aurum	Medcode	TYPE 1 DIABETES	84821000006118	Type I diabetes mellitus with ulcer
+Aurum	Medcode	TYPE 1 DIABETES	84831000006115	Type I diabetes mellitus without complication
+Aurum	Medcode	TYPE 1 DIABETES	881441000006111	Diabetes mellitus - juvenile
+Aurum	Medcode	TYPE 1 DIABETES	913441000006119	Insulin-dependent diabetes mellitus with renal complications
+Aurum	Medcode	TYPE 1 DIABETES	913451000006117	Type 1 diabetes mellitus with renal complications
+Aurum	Medcode	TYPE 1 DIABETES	913461000006115	Type I diabetes mellitus with renal complications
+Aurum	Medcode	TYPE 1 DIABETES	913471000006110	Insulin-dependent diabetes mellitus with ophthalmic comps
+Aurum	Medcode	TYPE 1 DIABETES	913481000006113	Type 1 diabetes mellitus with ophthalmic complications
+Aurum	Medcode	TYPE 1 DIABETES	913491000006111	Type I diabetes mellitus with ophthalmic complications
+Aurum	Medcode	TYPE 1 DIABETES	913501000006115	Insulin-dependent diabetes mellitus with neurological comps
+Aurum	Medcode	TYPE 1 DIABETES	913511000006117	Type 1 diabetes mellitus with neurological complications
+Aurum	Medcode	TYPE 1 DIABETES	913521000006113	Neurological disorder with type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	913531000006111	Insulin dependent diabetes mellitus with multiple complicat
+Aurum	Medcode	TYPE 1 DIABETES	913541000006118	Type 1 diabetes mellitus with multiple complications
+Aurum	Medcode	TYPE 1 DIABETES	913551000006116	Type I diabetes mellitus with multiple complications
+Aurum	Medcode	TYPE 1 DIABETES	913621000006112	Insulin dependent diabetes mellitus with gangrene
+Aurum	Medcode	TYPE 1 DIABETES	913651000006115	Insulin dependent diabetes mellitus with retinopathy
+Aurum	Medcode	TYPE 1 DIABETES	913661000006118	Retinopathy with type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	913671000006113	Type I diabetes mellitus with retinopathy
+Aurum	Medcode	TYPE 1 DIABETES	913681000006111	Insulin dependent diabetes mellitus - poor control
+Aurum	Medcode	TYPE 1 DIABETES	913711000006112	Insulin dependent diabetes maturity onset
+Aurum	Medcode	TYPE 1 DIABETES	913771000006115	Insulin dependent diabetes mellitus with mononeuropathy
+Aurum	Medcode	TYPE 1 DIABETES	913781000006117	Type 1 diabetes mellitus with mononeuropathy
+Aurum	Medcode	TYPE 1 DIABETES	913791000006119	Type I diabetes mellitus with mononeuropathy
+Aurum	Medcode	TYPE 1 DIABETES	913801000006118	Insulin dependent diabetes mellitus with polyneuropathy
+Aurum	Medcode	TYPE 1 DIABETES	913811000006115	Type 1 diabetes mellitus with polyneuropathy
+Aurum	Medcode	TYPE 1 DIABETES	913821000006111	Type I diabetes mellitus with polyneuropathy
+Aurum	Medcode	TYPE 1 DIABETES	913831000006114	Insulin dependent diabetes mellitus with nephropathy
+Aurum	Medcode	TYPE 1 DIABETES	913841000006116	Renal disorder associated with type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	913851000006119	Type I diabetes mellitus with nephropathy
+Aurum	Medcode	TYPE 1 DIABETES	913891000006113	Insulin dependent diabetes mellitus with diabetic cataract
+Aurum	Medcode	TYPE 1 DIABETES	913901000006112	Type 1 diabetes mellitus with diabetic cataract
+Aurum	Medcode	TYPE 1 DIABETES	913911000006110	Type I diabetes mellitus with diabetic cataract
+Aurum	Medcode	TYPE 1 DIABETES	913931000006116	Type 1 diabetes mellitus with peripheral angiopathy
+Aurum	Medcode	TYPE 1 DIABETES	913941000006114	Peripheral angiopathy due to type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	928461000006119	Persistent proteinuria associated with type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	928471000006114	Type I diabetes mellitus with persistent proteinuria
+Aurum	Medcode	TYPE 1 DIABETES	928491000006110	Type I diabetes mellitus with persistent microalbuminuria
+Aurum	Medcode	TYPE 1 DIABETES	928501000006119	Ketoacidosis in type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	928511000006116	Type I diabetes mellitus with ketoacidosis
+Aurum	Medcode	TYPE 1 DIABETES	928521000006112	Ketoacidotic coma in type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	928531000006110	Type I diabetes mellitus with ketoacidotic coma
+Aurum	Medcode	TYPE 1 DIABETES	9312981000006112	Skin ulcer of toe due to diabetes mellitus type 1
+Aurum	Medcode	TYPE 1 DIABETES	938301000006114	Exudative maculopathy with type 1 diabetes mellitus
+Aurum	Medcode	TYPE 1 DIABETES	938311000006112	Type I diabetes mellitus with exudative maculopathy
+Aurum	Medcode	TYPE 2 DIABETES	1223147012	Insulin treated Type II diabetes mellitus
+Aurum	Medcode	TYPE 2 DIABETES	1223148019	Insulin treated non-insulin dependent diabetes mellitus
+Aurum	Medcode	TYPE 2 DIABETES	1488898011	Hyperosmolar non-ketotic state in type 2 diabetes mellitus
+Aurum	Medcode	TYPE 2 DIABETES	197761014	Type 2 diabetes mellitus
+Aurum	Medcode	TYPE 2 DIABETES	259365016	Glucose tol. test diabetic
+Aurum	Medcode	TYPE 2 DIABETES	280511000006113	Non-insulin dependent diabetes mellitus with hypoglyca coma
+Aurum	Medcode	TYPE 2 DIABETES	280521000006117	Non-insulin dependent diabetes mellitus with mononeuropathy
+Aurum	Medcode	TYPE 2 DIABETES	280531000006119	Non-insulin dependent diabetes mellitus with nephropathy
+Aurum	Medcode	TYPE 2 DIABETES	280541000006112	Non-insulin dependent diabetes mellitus with polyneuropathy
+Aurum	Medcode	TYPE 2 DIABETES	280551000006114	Non-insulin dependent diabetes mellitus with ulcer
+Aurum	Medcode	TYPE 2 DIABETES	280561000006111	Non-insulin-dependent d m with peripheral angiopath
+Aurum	Medcode	TYPE 2 DIABETES	280571000006116	Non-insulin dependent diabetes mellitus
+Aurum	Medcode	TYPE 2 DIABETES	280581000006118	Non-insulin-dependent diabetes mellitus with multiple comps
+Aurum	Medcode	TYPE 2 DIABETES	280591000006115	Non-insulin-dependent diabetes mellitus with neuro comps
+Aurum	Medcode	TYPE 2 DIABETES	281161000006114	Non-insulin depend diabetes mellitus with diabetic cataract
+Aurum	Medcode	TYPE 2 DIABETES	281171000006119	Non-insulin dependent diabetes mellitus - poor control
+Aurum	Medcode	TYPE 2 DIABETES	281181000006116	Non-insulin dependent d m with neuropathic arthropathy
+Aurum	Medcode	TYPE 2 DIABETES	281211000006117	Non-insulin dependent diabetes mellitus with gangrene
+Aurum	Medcode	TYPE 2 DIABETES	292483016	Diabetes mellitus, adult onset, with hyperosmolar coma
+Aurum	Medcode	TYPE 2 DIABETES	292576013	Type II diabetes mellitus with multiple complications
+Aurum	Medcode	TYPE 2 DIABETES	292577016	Type 2 diabetes mellitus with multiple complications
+Aurum	Medcode	TYPE 2 DIABETES	292579018	Type 2 diabetes mellitus with ulcer
+Aurum	Medcode	TYPE 2 DIABETES	292581016	Type II diabetes mellitus with ulcer
+Aurum	Medcode	TYPE 2 DIABETES	292582011	Type II diabetes mellitus with gangrene
+Aurum	Medcode	TYPE 2 DIABETES	292583018	Type 2 diabetes mellitus with gangrene
+Aurum	Medcode	TYPE 2 DIABETES	292589019	Type II diabetes mellitus - poor control
+Aurum	Medcode	TYPE 2 DIABETES	292590011	Type 2 diabetes mellitus - poor control
+Aurum	Medcode	TYPE 2 DIABETES	299621000000117	Type 2 diabetes mellitus with gastroparesis
+Aurum	Medcode	TYPE 2 DIABETES	306113018	Pre-existing diabetes mellitus, non-insulin-dependent
+Aurum	Medcode	TYPE 2 DIABETES	457328010	Non-insulin-dependent diabetes mellitus without complication
+Aurum	Medcode	TYPE 2 DIABETES	457329019	Type 2 diabetes mellitus without complication
+Aurum	Medcode	TYPE 2 DIABETES	457330012	Type II diabetes mellitus without complication
+Aurum	Medcode	TYPE 2 DIABETES	459167016	Type 2 diabetes mellitus with hypoglycaemic coma
+Aurum	Medcode	TYPE 2 DIABETES	459169018	Type II diabetes mellitus with hypoglycaemic coma
+Aurum	Medcode	TYPE 2 DIABETES	459306016	Type II diabetes mellitus with peripheral angiopathy
+Aurum	Medcode	TYPE 2 DIABETES	459308015	Type 2 diabetes mellitus with peripheral angiopathy
+Aurum	Medcode	TYPE 2 DIABETES	459309011	Non-insulin dependent diabetes mellitus with arthropathy
+Aurum	Medcode	TYPE 2 DIABETES	459310018	Type 2 diabetes mellitus with arthropathy
+Aurum	Medcode	TYPE 2 DIABETES	459311019	Type II diabetes mellitus with arthropathy
+Aurum	Medcode	TYPE 2 DIABETES	459312014	Type II diabetes mellitus with neuropathic arthropathy
+Aurum	Medcode	TYPE 2 DIABETES	459313016	Type 2 diabetes mellitus with neuropathic arthropathy
+Aurum	Medcode	TYPE 2 DIABETES	493773010	NIDDM - Non-insulin dependent diabetes mellitus
+Aurum	Medcode	TYPE 2 DIABETES	493774016	Type II diabetes mellitus
+Aurum	Medcode	TYPE 2 DIABETES	587111000006111	Non-insulin-dependent diabetes mellitus with ophthalm comps
+Aurum	Medcode	TYPE 2 DIABETES	587521000006111	Non-insulin-dependent diabetes mellitus with renal comps
+Aurum	Medcode	TYPE 2 DIABETES	616481000006119	Diabetes mellitus, adult onset, + neurological manifestation
+Aurum	Medcode	TYPE 2 DIABETES	616491000006116	Diabetes mellitus, adult onset, + ophthalmic manifestation
+Aurum	Medcode	TYPE 2 DIABETES	616501000006112	Diabetes mellitus, adult onset, + unspecified complication
+Aurum	Medcode	TYPE 2 DIABETES	616511000006110	Diabetes mellitus, adult onset, no mention of complication
+Aurum	Medcode	TYPE 2 DIABETES	616531000006116	Diabetes mellitus, adult onset, with ketoacidosis
+Aurum	Medcode	TYPE 2 DIABETES	616541000006114	Diabetes mellitus, adult onset, with ketoacidotic coma
+Aurum	Medcode	TYPE 2 DIABETES	616551000006111	Diabetes mellitus, adult onset, with renal manifestation
+Aurum	Medcode	TYPE 2 DIABETES	616561000006113	Diabetes mellitus, adult with gangrene
+Aurum	Medcode	TYPE 2 DIABETES	616571000006118	Diabetes mellitus, adult, + other specified manifestation
+Aurum	Medcode	TYPE 2 DIABETES	616581000006115	Diabetes mellitus, adult, + peripheral circulatory disorder
+Aurum	Medcode	TYPE 2 DIABETES	641581000006115	Non-insulin-dependent diabetes mellitus with retinopathy
+Aurum	Medcode	TYPE 2 DIABETES	674961000006118	NIDDM with peripheral circulatory disorder
+Aurum	Medcode	TYPE 2 DIABETES	73466011	Non-insulin dependent diabetes mellitus
+Aurum	Medcode	TYPE 2 DIABETES	840951000006119	Insulin treated Type 2 diabetes mellitus
+Aurum	Medcode	TYPE 2 DIABETES	841351000006110	Insulin treated Type II diabetes mellitus
+Aurum	Medcode	TYPE 2 DIABETES	84471000006119	Type 2 diabetes mellitus
+Aurum	Medcode	TYPE 2 DIABETES	84481000006116	Type 2 diabetes mellitus - poor control
+Aurum	Medcode	TYPE 2 DIABETES	84491000006118	Type 2 diabetes mellitus with arthropathy
+Aurum	Medcode	TYPE 2 DIABETES	84501000006114	Type 2 diabetes mellitus with diabetic cataract
+Aurum	Medcode	TYPE 2 DIABETES	84511000006112	Type 2 diabetes mellitus with gangrene
+Aurum	Medcode	TYPE 2 DIABETES	84521000006116	Type 2 diabetes mellitus with hypoglycaemic coma
+Aurum	Medcode	TYPE 2 DIABETES	84531000006118	Type 2 diabetes mellitus with mononeuropathy
+Aurum	Medcode	TYPE 2 DIABETES	84541000006111	Type 2 diabetes mellitus with multiple complications
+Aurum	Medcode	TYPE 2 DIABETES	84551000006113	Type 2 diabetes mellitus with nephropathy
+Aurum	Medcode	TYPE 2 DIABETES	84561000006110	Type 2 diabetes mellitus with neurological complications
+Aurum	Medcode	TYPE 2 DIABETES	84571000006115	Type 2 diabetes mellitus with neuropathic arthropathy
+Aurum	Medcode	TYPE 2 DIABETES	84581000006117	Type 2 diabetes mellitus with ophthalmic complications
+Aurum	Medcode	TYPE 2 DIABETES	84591000006119	Type 2 diabetes mellitus with peripheral angiopathy
+Aurum	Medcode	TYPE 2 DIABETES	84601000006110	Type 2 diabetes mellitus with polyneuropathy
+Aurum	Medcode	TYPE 2 DIABETES	84611000006113	Type 2 diabetes mellitus with renal complications
+Aurum	Medcode	TYPE 2 DIABETES	84621000006117	Type 2 diabetes mellitus with retinopathy
+Aurum	Medcode	TYPE 2 DIABETES	84631000006119	Type 2 diabetes mellitus with ulcer
+Aurum	Medcode	TYPE 2 DIABETES	84641000006112	Type 2 diabetes mellitus without complication
+Aurum	Medcode	TYPE 2 DIABETES	84841000006113	Type II diabetes mellitus
+Aurum	Medcode	TYPE 2 DIABETES	84851000006110	Type II diabetes mellitus - poor control
+Aurum	Medcode	TYPE 2 DIABETES	84861000006112	Type II diabetes mellitus with arthropathy
+Aurum	Medcode	TYPE 2 DIABETES	84871000006117	Type II diabetes mellitus with diabetic cataract
+Aurum	Medcode	TYPE 2 DIABETES	84881000006119	Type II diabetes mellitus with gangrene
+Aurum	Medcode	TYPE 2 DIABETES	84891000006116	Type II diabetes mellitus with hypoglycaemic coma
+Aurum	Medcode	TYPE 2 DIABETES	84901000006117	Type II diabetes mellitus with mononeuropathy
+Aurum	Medcode	TYPE 2 DIABETES	84911000006119	Type II diabetes mellitus with multiple complications
+Aurum	Medcode	TYPE 2 DIABETES	84921000006110	Type II diabetes mellitus with nephropathy
+Aurum	Medcode	TYPE 2 DIABETES	84941000006115	Type II diabetes mellitus with neuropathic arthropathy
+Aurum	Medcode	TYPE 2 DIABETES	84951000006118	Type II diabetes mellitus with ophthalmic complications
+Aurum	Medcode	TYPE 2 DIABETES	84961000006116	Type II diabetes mellitus with peripheral angiopathy
+Aurum	Medcode	TYPE 2 DIABETES	84971000006111	Type II diabetes mellitus with polyneuropathy
+Aurum	Medcode	TYPE 2 DIABETES	84981000006114	Type II diabetes mellitus with renal complications
+Aurum	Medcode	TYPE 2 DIABETES	84991000006112	Type II diabetes mellitus with retinopathy
+Aurum	Medcode	TYPE 2 DIABETES	85001000006117	Type II diabetes mellitus with ulcer
+Aurum	Medcode	TYPE 2 DIABETES	85011000006119	Type II diabetes mellitus without complication
+Aurum	Medcode	TYPE 2 DIABETES	850691000006118	Hyperosmolar non-ketotic state in type 2 diabetes mellitus
+Aurum	Medcode	TYPE 2 DIABETES	881451000006113	Diabetes mellitus -adult onset
+Aurum	Medcode	TYPE 2 DIABETES	914031000006118	Type 2 diabetes mellitus with renal complications
+Aurum	Medcode	TYPE 2 DIABETES	914041000006111	Type II diabetes mellitus with renal complications
+Aurum	Medcode	TYPE 2 DIABETES	914051000006113	Type 2 diabetes mellitus with ophthalmic complications
+Aurum	Medcode	TYPE 2 DIABETES	914061000006110	Type II diabetes mellitus with ophthalmic complications
+Aurum	Medcode	TYPE 2 DIABETES	914071000006115	Type 2 diabetes mellitus with neurological complications
+Aurum	Medcode	TYPE 2 DIABETES	914081000006117	Type II diabetes mellitus with neurological complications
+Aurum	Medcode	TYPE 2 DIABETES	914151000006112	Type 2 diabetes mellitus with retinopathy
+Aurum	Medcode	TYPE 2 DIABETES	914161000006114	Type II diabetes mellitus with retinopathy
+Aurum	Medcode	TYPE 2 DIABETES	914221000006113	Type 2 diabetes mellitus with mononeuropathy
+Aurum	Medcode	TYPE 2 DIABETES	914231000006111	Type II diabetes mellitus with mononeuropathy
+Aurum	Medcode	TYPE 2 DIABETES	914241000006118	Type 2 diabetes mellitus with polyneuropathy
+Aurum	Medcode	TYPE 2 DIABETES	914251000006116	Type II diabetes mellitus with polyneuropathy
+Aurum	Medcode	TYPE 2 DIABETES	914271000006114	Type II diabetes mellitus with nephropathy
+Aurum	Medcode	TYPE 2 DIABETES	914301000006111	Type 2 diabetes mellitus with diabetic cataract
+Aurum	Medcode	TYPE 2 DIABETES	914311000006114	Type II diabetes mellitus with diabetic cataract
+Aurum	Medcode	TYPE 2 DIABETES	914391000006116	Insulin treated Type 2 diabetes mellitus
+Aurum	Medcode	TYPE 2 DIABETES	928541000006117	Type 2 diabetes mellitus with persistent proteinuria
+Aurum	Medcode	TYPE 2 DIABETES	928551000006115	Type II diabetes mellitus with persistent proteinuria
+Aurum	Medcode	TYPE 2 DIABETES	928561000006118	Type 2 diabetes mellitus with persistent microalbuminuria
+Aurum	Medcode	TYPE 2 DIABETES	928571000006113	Type II diabetes mellitus with persistent microalbuminuria
+Aurum	Medcode	TYPE 2 DIABETES	928581000006111	Type 2 diabetes mellitus with ketoacidosis
+Aurum	Medcode	TYPE 2 DIABETES	928591000006114	Type II diabetes mellitus with ketoacidosis
+Aurum	Medcode	TYPE 2 DIABETES	928601000006118	Type 2 diabetes mellitus with ketoacidotic coma
+Aurum	Medcode	TYPE 2 DIABETES	928611000006115	Type II diabetes mellitus with ketoacidotic coma
+Aurum	Medcode	TYPE 2 DIABETES	938321000006116	Type 2 diabetes mellitus with exudative maculopathy
+Aurum	Medcode	TYPE 2 DIABETES	938331000006118	Type II diabetes mellitus with exudative maculopathy
+Aurum	Medcode	ANXIETY	11927061000006111	Hospital anxiety and depression scale
+Aurum	Medcode	ANXIETY	1210253015	Panic disorder
+Aurum	Medcode	ANXIETY	12127531000006113	Recurrent mild major depressive disorder co-occurrent with anxiety
+Aurum	Medcode	ANXIETY	12127541000006115	Recurrent severe major depressive disorder co-occurrent with anxiety
+Aurum	Medcode	ANXIETY	12127551000006118	Recurrent moderate major depressive disorder co-occurrent with anxiety
+Aurum	Medcode	ANXIETY	12127561000006116	Recurrent major depressive disorder co-occurrent with anxiety in full remission
+Aurum	Medcode	ANXIETY	12127571000006111	Recurrent major depressive disorder in partial remission co-occurrent with anxiety
+Aurum	Medcode	ANXIETY	138401000006119	Social phobic disorders
+Aurum	Medcode	ANXIETY	1488717011	C/O - panic attack
+Aurum	Medcode	ANXIETY	1626511000006116	Generalised anxiety disorder (GAD-7) score
+Aurum	Medcode	ANXIETY	1755921000006119	[X]Acute post-traumatic stress disorder follow military comb
+Aurum	Medcode	ANXIETY	1755931000006116	[X]Chron post-traumatic stress disorder follow military comb
+Aurum	Medcode	ANXIETY	1755941000006114	[X]Delayed post-traumat stress disorder follow military comb
+Aurum	Medcode	ANXIETY	1780506015	HAD scale: anxiety score
+Aurum	Medcode	ANXIETY	1803241000006112	POST trial - anxiety screen question 1
+Aurum	Medcode	ANXIETY	1803271000006116	POST trial - anxiety screen question 2
+Aurum	Medcode	ANXIETY	1806261000006117	Psycho-education - anxiety
+Aurum	Medcode	ANXIETY	1808511000006119	Recurrent panic attacks
+Aurum	Medcode	ANXIETY	1808521000006110	Panic disorder without agoraphobia
+Aurum	Medcode	ANXIETY	1882561000006118	GAD-2 (generalised anxiety disorder 2) scale score
+Aurum	Medcode	ANXIETY	1901341000006113	GAD-2 (generalised anxiety disorder 2) scale score
+Aurum	Medcode	ANXIETY	1956381000006115	GAD-7 total score (anxiety severity grading)
+Aurum	Medcode	ANXIETY	1956431000006111	Keele ENHANCE trial - anxiety/depression
+Aurum	Medcode	ANXIETY	1956441000006118	Keele ENHANCE trial - anxiety/depression advice
+Aurum	Medcode	ANXIETY	1956461000006119	Keele ENHANCE trial-anxiety/deprs verbal advc-increasng activity
+Aurum	Medcode	ANXIETY	1956471000006114	Keele ENHANCE trial-anxiety/depresn verbal advice-healthy eating
+Aurum	Medcode	ANXIETY	1956491000006110	Keele ENHANCE trial-anxiety/depresn verbal advice-managing mood
+Aurum	Medcode	ANXIETY	1956501000006119	Keele ENHANCE trial-anxiety/depression verbal advice-sleep habit
+Aurum	Medcode	ANXIETY	1956521000006112	Keele ENHANCE trial-anxiety/depresn written advc-healthy eating
+Aurum	Medcode	ANXIETY	1956541000006117	Keele ENHANCE trial-anxiety/depresn written advice-managing mood
+Aurum	Medcode	ANXIETY	1956551000006115	Keele ENHANCE trial-anxiety/depresn written advice-sleep habit
+Aurum	Medcode	ANXIETY	1956561000006118	Keele ENHANCE trial - anxiety/depression - no f/up appt needed
+Aurum	Medcode	ANXIETY	1956571000006113	Keele ENHANCE trial- anxiety/depression- f/up nurse appt advised
+Aurum	Medcode	ANXIETY	1956581000006111	Keele ENHANCE trial- anxiety/depression - f/up nurse appt booked
+Aurum	Medcode	ANXIETY	1956591000006114	Keele ENHANCE trial - anxiety/depression - f/up GP appt advised
+Aurum	Medcode	ANXIETY	1956601000006118	Keele ENHANCE trial - anxiety/depression - f/up GP appt booked
+Aurum	Medcode	ANXIETY	1956621000006111	Keele ENHANCE trial-anxiety/depression- immediate advice from GP
+Aurum	Medcode	ANXIETY	1956631000006114	Keele ENHANCE trial-anxiety/dep-signpost to slimming club
+Aurum	Medcode	ANXIETY	1956641000006116	Keele ENHANCE trial- anxiety/dep - refer to IAPT programme
+Aurum	Medcode	ANXIETY	1956651000006119	Keele ENHANCE trial-anxiety/dep-refer for exercse on prescrption
+Aurum	Medcode	ANXIETY	1956821000006110	Keele ENHANCE trial-anxiety/dep-signpost to other support group
+Aurum	Medcode	ANXIETY	1956831000006113	Keele ENHANCE trial-anxiety/dep-signpost to online resources
+Aurum	Medcode	ANXIETY	1976491000006113	Mixed anxiety and depressive reaction
+Aurum	Medcode	ANXIETY	1995071000006115	HoNOS (Health of the Nation Outcome Scales) for working age adults rating scale 8b - anxiety
+Aurum	Medcode	ANXIETY	2017961000006113	Keele INCLUDE study - anxiety/depression
+Aurum	Medcode	ANXIETY	2139351000000110	EuroQol five dimension five level anxiety depression score
+Aurum	Medcode	ANXIETY	223631000000113	Phobic disorders
+Aurum	Medcode	ANXIETY	223641000000116	Phobic anxiety disorder
+Aurum	Medcode	ANXIETY	2287071000000115	Anxiety about breathlessness
+Aurum	Medcode	ANXIETY	2335571000000115	Patient given advice about management of anxiety
+Aurum	Medcode	ANXIETY	2391581000000111	Referral for guided self-help for anxiety declined
+Aurum	Medcode	ANXIETY	2391701000000114	Anxiety screening declined
+Aurum	Medcode	ANXIETY	2404011000000118	GAD-7 (Generalized Anxiety Disorder 7) scale declined
+Aurum	Medcode	ANXIETY	2518361000000115	Hospital Anxiety and Depression Scale declined
+Aurum	Medcode	ANXIETY	2549138014	Depression anxiety stress scales anxiety score
+Aurum	Medcode	ANXIETY	2549296017	Depression anxiety stress scales stress score
+Aurum	Medcode	ANXIETY	2549495015	Depression anxiety stress scales depression score
+Aurum	Medcode	ANXIETY	2549895012	O/E - panic attack
+Aurum	Medcode	ANXIETY	2618241000000117	Anxiety resolved
+Aurum	Medcode	ANXIETY	2618361000000113	Referral for psychological management of anxiety
+Aurum	Medcode	ANXIETY	2618401000000116	Referral for psychological management of anxiety declined
+Aurum	Medcode	ANXIETY	2652351000000117	Signposting to Anxiety UK
+Aurum	Medcode	ANXIETY	2659511000000118	Signposting to OCD-UK (Obsessive-Compulsive Disorder-UK)
+Aurum	Medcode	ANXIETY	2659531000000114	Signposting to OCD (Obsessive-Compulsive Disorder) Action
+Aurum	Medcode	ANXIETY	2682511000006110	Anticipatory anxiety, mild
+Aurum	Medcode	ANXIETY	269821000006113	Obsessive-compulsive disorders
+Aurum	Medcode	ANXIETY	283464017	Antiphobic therapy
+Aurum	Medcode	ANXIETY	2848291000006116	Generalized anxiety disorder
+Aurum	Medcode	ANXIETY	2848301000006115	GAD - Generalized anxiety disorder
+Aurum	Medcode	ANXIETY	2848311000006117	GAD - Generalised anxiety disorder
+Aurum	Medcode	ANXIETY	2882975016	Short health anxiety inventory
+Aurum	Medcode	ANXIETY	2907991000006110	Social anxiety disorder
+Aurum	Medcode	ANXIETY	294953016	Anxiety state unspecified
+Aurum	Medcode	ANXIETY	294960010	Chronic anxiety
+Aurum	Medcode	ANXIETY	294961014	Recurrent anxiety
+Aurum	Medcode	ANXIETY	294963012	Anxiety state
+Aurum	Medcode	ANXIETY	294991016	Phobia unspecified
+Aurum	Medcode	ANXIETY	294992011	Agoraphobia with panic attacks
+Aurum	Medcode	ANXIETY	294993018	Agoraphobia without mention of panic attacks
+Aurum	Medcode	ANXIETY	294994012	Social phobia, fear of eating in public
+Aurum	Medcode	ANXIETY	294995013	Social phobia, fear of public speaking
+Aurum	Medcode	ANXIETY	294996014	Social phobia, fear of public washing
+Aurum	Medcode	ANXIETY	295011010	Anancastic neurosis
+Aurum	Medcode	ANXIETY	295015018	Compulsive neurosis
+Aurum	Medcode	ANXIETY	295016017	Obsessional neurosis
+Aurum	Medcode	ANXIETY	295017014	Obsessive-compulsive disorder NOS
+Aurum	Medcode	ANXIETY	296224013	[X]Phobic anxiety disorders
+Aurum	Medcode	ANXIETY	296236019	[X]Other phobic anxiety disorders
+Aurum	Medcode	ANXIETY	296237011	[X]Phobic anxiety disorder, unspecified
+Aurum	Medcode	ANXIETY	296238018	[X]Other anxiety disorders
+Aurum	Medcode	ANXIETY	296239014	[X]Panic disorder [episodic paroxysmal anxiety]
+Aurum	Medcode	ANXIETY	296245018	[X]Other mixed anxiety disorders
+Aurum	Medcode	ANXIETY	296249012	[X]Anxiety disorder, unspecified
+Aurum	Medcode	ANXIETY	296251011	[X]Predominantly obsessional thoughts or ruminations
+Aurum	Medcode	ANXIETY	296253014	[X]Mixed obsessional thoughts and acts
+Aurum	Medcode	ANXIETY	296254015	[X]Other obsessive-compulsive disorders
+Aurum	Medcode	ANXIETY	296255019	[X]Obsessive-compulsive disorder, unspecified
+Aurum	Medcode	ANXIETY	296722013	[X]Separation anxiety disorder of childhood
+Aurum	Medcode	ANXIETY	300681000000118	Referral for guided self-help for anxiety
+Aurum	Medcode	ANXIETY	304838011	Anxiety state
+Aurum	Medcode	ANXIETY	3070671000006111	Anticipatory anxiety
+Aurum	Medcode	ANXIETY	3090721000006114	Anticipatory anxiety, moderate
+Aurum	Medcode	ANXIETY	3265831000006118	Adjustment disorder with anxiety
+Aurum	Medcode	ANXIETY	3287741000006111	Anxiety
+Aurum	Medcode	ANXIETY	3287771000006115	Anxiety reaction
+Aurum	Medcode	ANXIETY	33475016	Claustrophobia
+Aurum	Medcode	ANXIETY	339044013	Panic attack
+Aurum	Medcode	ANXIETY	342665019	Anxiety management training
+Aurum	Medcode	ANXIETY	3497371000006119	Moderate anxiety
+Aurum	Medcode	ANXIETY	362181000006117	[X]Acrophobia
+Aurum	Medcode	ANXIETY	362871000006111	[X]Agoraphobia
+Aurum	Medcode	ANXIETY	362881000006114	[X]Agoraphobia without history of panic disorder
+Aurum	Medcode	ANXIETY	3630001000006116	Anxiety hyperventilation
+Aurum	Medcode	ANXIETY	363281000006117	[X]Animal phobias
+Aurum	Medcode	ANXIETY	363361000006117	[X]Anthropophobia
+Aurum	Medcode	ANXIETY	363641000006114	[X]Anxiety hysteria
+Aurum	Medcode	ANXIETY	363651000006111	Anxiety neurosis
+Aurum	Medcode	ANXIETY	363661000006113	[X]Anxiety NOS
+Aurum	Medcode	ANXIETY	363671000006118	[X]Anxiety reaction
+Aurum	Medcode	ANXIETY	363681000006115	[X]Anxiety state
+Aurum	Medcode	ANXIETY	3654681000006114	Mild anxiety
+Aurum	Medcode	ANXIETY	370049015	Flying phobia
+Aurum	Medcode	ANXIETY	370861000006110	[X]Childhood overanxious disorder
+Aurum	Medcode	ANXIETY	371071000006117	[X]Claustrophobia
+Aurum	Medcode	ANXIETY	371231000006113	[X]Combat fatigue
+Aurum	Medcode	ANXIETY	378291000006117	[X]Dream anxiety disorder
+Aurum	Medcode	ANXIETY	3810661000006112	Severe anxiety (panic)
+Aurum	Medcode	ANXIETY	3822891000006112	Free-floating anxiety
+Aurum	Medcode	ANXIETY	388071000006116	[X]Generalized anxiety disorder
+Aurum	Medcode	ANXIETY	3950381000006113	Anxiety about blushing
+Aurum	Medcode	ANXIETY	398351000006110	[X]Mild anxiety depression
+Aurum	Medcode	ANXIETY	398561000006117	[X]Mixed anxiety and depressive disorder
+Aurum	Medcode	ANXIETY	400321000006113	[X]Obsessive - compulsive disorder
+Aurum	Medcode	ANXIETY	400341000006118	[X]Obsessive-compulsive neurosis
+Aurum	Medcode	ANXIETY	401780016	Phobic disorder NOS
+Aurum	Medcode	ANXIETY	401783019	Neurotic disorder NOS
+Aurum	Medcode	ANXIETY	401881014	[X]Other specified anxiety disorders
+Aurum	Medcode	ANXIETY	403931000006116	Organic anxiety disorder
+Aurum	Medcode	ANXIETY	405031000006119	[X]Other sedatives, hypnotics and antianxiety drugs causing adverse effects in therapeutic use
+Aurum	Medcode	ANXIETY	408988011	Hospital anxiety and depression scale
+Aurum	Medcode	ANXIETY	418031000006113	[X]Panic attack
+Aurum	Medcode	ANXIETY	418051000006118	[X]Panic disorder with agoraphobia
+Aurum	Medcode	ANXIETY	418061000006116	[X]Panic state
+Aurum	Medcode	ANXIETY	4196231000006110	Dream anxiety disorder
+Aurum	Medcode	ANXIETY	419841000006116	[X]Persistant anxiety depression
+Aurum	Medcode	ANXIETY	420631000006114	[X]Phobia NOS
+Aurum	Medcode	ANXIETY	420641000006116	[X]Phobic anxiety disorder of childhood
+Aurum	Medcode	ANXIETY	420671000006112	[X]Phobic state NOS
+Aurum	Medcode	ANXIETY	423021000006114	[X]Post - traumatic stress disorder
+Aurum	Medcode	ANXIETY	425811000006113	[X]Sedatives, hypnotics and antianxiety drugs causing adverse effects in therapeutic use
+Aurum	Medcode	ANXIETY	426871000006113	[X]Simple phobia
+Aurum	Medcode	ANXIETY	427051000006113	[X]Social anxiety disorder of childhood
+Aurum	Medcode	ANXIETY	427061000006110	[X]Social neurosis
+Aurum	Medcode	ANXIETY	427071000006115	[X]Social phobias
+Aurum	Medcode	ANXIETY	427231000006111	[X]Specific (isolated) phobias
+Aurum	Medcode	ANXIETY	430251000006119	[X]Unspecified sedative, hypnotic and antianxiety drugs causing adverse effects in therapeutic use
+Aurum	Medcode	ANXIETY	4539991000006111	History of anxiety state
+Aurum	Medcode	ANXIETY	481154010	Generalised anxiety disorder
+Aurum	Medcode	ANXIETY	488201000006114	Anxiety disorder
+Aurum	Medcode	ANXIETY	488211000006112	Anxiety with depression
+Aurum	Medcode	ANXIETY	4937701000006118	Acknowledging anxiety
+Aurum	Medcode	ANXIETY	4944401000006116	Anxiety about treatment
+Aurum	Medcode	ANXIETY	4944421000006114	Anxiety about loss of control
+Aurum	Medcode	ANXIETY	4944481000006113	Anxiety about not coping with parenthood
+Aurum	Medcode	ANXIETY	4944501000006115	Anxiety about making mistakes
+Aurum	Medcode	ANXIETY	4944521000006113	Anxiety about altered body image
+Aurum	Medcode	ANXIETY	4948981000006112	Alleviating anxiety
+Aurum	Medcode	ANXIETY	5024071000006118	Anxiety depression
+Aurum	Medcode	ANXIETY	5024101000006111	Anxiety hysteria
+Aurum	Medcode	ANXIETY	504351000006118	Beck anxiety inventory
+Aurum	Medcode	ANXIETY	5248991000006117	Anxiety and fear
+Aurum	Medcode	ANXIETY	5249061000006116	Anxiety about body function or health
+Aurum	Medcode	ANXIETY	5249071000006111	Anxiety about health
+Aurum	Medcode	ANXIETY	5249261000006112	Anxiety about behaviour or performance
+Aurum	Medcode	ANXIETY	5249271000006117	Anxiety about social functioning
+Aurum	Medcode	ANXIETY	5548991000006110	Clinical anxiety scale
+Aurum	Medcode	ANXIETY	5549571000006113	Depression anxiety scale
+Aurum	Medcode	ANXIETY	5551611000006116	HADS - Hospital anxiety and depression scale
+Aurum	Medcode	ANXIETY	5551621000006112	HAD - Hospital anxiety and depression scale
+Aurum	Medcode	ANXIETY	5605231000006114	Anxiety about choking
+Aurum	Medcode	ANXIETY	5605241000006116	Anxiety about swallowing
+Aurum	Medcode	ANXIETY	5605251000006119	Anxiety about collapsing
+Aurum	Medcode	ANXIETY	5605261000006117	Anxiety about shaking
+Aurum	Medcode	ANXIETY	5605271000006112	Anxiety about sweating
+Aurum	Medcode	ANXIETY	5605281000006110	Anxiety about dying
+Aurum	Medcode	ANXIETY	5605341000006111	Anxiety about becoming fat
+Aurum	Medcode	ANXIETY	5605371000006115	Anxiety about fainting
+Aurum	Medcode	ANXIETY	5605381000006117	Anxiety about having a heart attack
+Aurum	Medcode	ANXIETY	5605411000006119	Anxiety about appearing ridiculous
+Aurum	Medcode	ANXIETY	5605421000006110	Anxiety about saying the wrong thing
+Aurum	Medcode	ANXIETY	5628441000006118	Performance anxiety
+Aurum	Medcode	ANXIETY	566931000000114	Generalised anxiety disorder 7 item score
+Aurum	Medcode	ANXIETY	5717641000006118	Level of anxiety
+Aurum	Medcode	ANXIETY	5718761000006110	Character trait finding of level of anxiety
+Aurum	Medcode	ANXIETY	5886461000006119	Parental anxiety
+Aurum	Medcode	ANXIETY	5886481000006112	Anxiety attack
+Aurum	Medcode	ANXIETY	5932991000006115	Beck anxiety inventory
+Aurum	Medcode	ANXIETY	6025521000006113	Anxiety counselling
+Aurum	Medcode	ANXIETY	6025551000006116	Counselling for anxiety
+Aurum	Medcode	ANXIETY	6358151000006115	Episodic paroxysmal anxiety disorder
+Aurum	Medcode	ANXIETY	647711000006111	EPNDS question 4 - anxiety
+Aurum	Medcode	ANXIETY	6651471000006117	Hospital Anxiety and Depression scale: anxiety score
+Aurum	Medcode	ANXIETY	6651491000006116	Hospital Anxiety and Depression scale: depression score
+Aurum	Medcode	ANXIETY	7308431000006110	Generalized anxiety disorder 7 item score
+Aurum	Medcode	ANXIETY	7308441000006117	GAD (generalised anxiety disorder) 7 item score
+Aurum	Medcode	ANXIETY	7310811000006117	Assessment using generalised anxiety disorder 7 item score
+Aurum	Medcode	ANXIETY	7310821000006113	Assessment using generalized anxiety disorder 7 item score
+Aurum	Medcode	ANXIETY	7317151000006110	Assessment using hospital anxiety and depression scale
+Aurum	Medcode	ANXIETY	7317161000006112	Assessment using HADS (hospital anxiety and depression scale)
+Aurum	Medcode	ANXIETY	7330171000006111	Health anxiety inventory short week score
+Aurum	Medcode	ANXIETY	7591921000006114	Generalised anxiety disorder 7 item scale
+Aurum	Medcode	ANXIETY	7591931000006112	Generalized anxiety disorder 7 item scale
+Aurum	Medcode	ANXIETY	7591941000006119	GAD-7 - Generalised Anxiety Disorder 7
+Aurum	Medcode	ANXIETY	7663271000006111	Management of anxiety
+Aurum	Medcode	ANXIETY	7733361000006112	GAD-7 (Generalised Anxiety Disorder 7) scale declined
+Aurum	Medcode	ANXIETY	7733381000006119	Assessment using Generalised Anxiety Disorder 7 item scale declined
+Aurum	Medcode	ANXIETY	7751711000006112	Assessment using RCADS (Revised Children's Anxiety and Depression Scale)
+Aurum	Medcode	ANXIETY	7753431000006111	Beck Anxiety Inventory score
+Aurum	Medcode	ANXIETY	8103671000006118	Anxiety about lethargy
+Aurum	Medcode	ANXIETY	8113001000006117	Stranger anxiety
+Aurum	Medcode	ANXIETY	8269201000006111	EQ-5D-5L (EuroQol five dimension five level) anxiety depression score
+Aurum	Medcode	ANXIETY	8278471000006118	GAD-2 (generalised anxiety disorder 2) scale
+Aurum	Medcode	ANXIETY	8278491000006117	Assessment using GAD-2 (generalised anxiety disorder 2) scale
+Aurum	Medcode	ANXIETY	8297491000006114	Education about anxiety
+Aurum	Medcode	ANXIETY	8368131000006110	HoNOS-LD (Health of the Nation Outcome Scales for People with Learning Disabilities) rating scale 3D score - anxiety, phobias, obsessive or compulsive behaviour
+Aurum	Medcode	ANXIETY	8368371000006110	HADS (Hospital Anxiety and Depression Scale) declined
+Aurum	Medcode	ANXIETY	8434121000006116	Mental Health Anxiety Disorders TOM (Therapy Outcome Measure) activity score
+Aurum	Medcode	ANXIETY	851141000006112	Phonophobia
+Aurum	Medcode	ANXIETY	851351000006112	School phobia
+Aurum	Medcode	ANXIETY	853201000006116	Obsessional compulsive psychosis
+Aurum	Medcode	ANXIETY	853241000006119	Phobic anxiety
+Aurum	Medcode	ANXIETY	882371000006118	Phobic state
+Aurum	Medcode	ANXIETY	882381000006115	Agoraphobia
+Aurum	Medcode	ANXIETY	882391000006117	Other phobias
+Aurum	Medcode	ANXIETY	882651000006119	Chron post-traum stress dis
+Aurum	Medcode	ANXIETY	90724016	Simple phobia
+Aurum	Medcode	ANXIETY	909691000006113	[RFC] Anxiety management
+Aurum	Medcode	ANXIETY	909701000006113	[RFC] Post traumatic stress disorder
+Aurum	Medcode	ANXIETY	932131000006118	Needle phobia
+Aurum	Medcode	ANXIETY	972931000006117	** The treatment of anxiety disorders
+Aurum	Medcode	ANXIETY	97986013	Acrophobia
+Aurum	Medcode	ANXIETY	980191000006111	[X]Needle phobia
+Aurum	Medcode	ANXIETY	982251000006112	Depression anxiety stress scales stress score
+Aurum	Medcode	ANXIETY	988881000006118	Agoraphobia
+Aurum	Medcode	ANXIETY	9901161000006119	Mild major depressive disorder co-occurrent with anxiety single episode
+Aurum	Medcode	ANXIETY	9901261000006114	Moderate major depressive disorder co-occurrent with anxiety single episode
+Aurum	Medcode	ANXIETY	9901281000006116	Severe major depressive disorder co-occurrent with anxiety single episode
+Aurum	Medcode	ANXIETY	991621000006112	Needle phobia
+Aurum	Medcode	BMI	100716012	Body mass index
+Aurum	Medcode	BMI	11923361000006119	Finding of body mass index
+Aurum	Medcode	BMI	1551651000000111	Body mass index centile
+Aurum	Medcode	BMI	1728141000006115	BMI centile
+Aurum	Medcode	BMI	1808061000006114	Body mass index less than 18.5
+Aurum	Medcode	BMI	1808071000006119	Body mass index 18.5-24.9
+Aurum	Medcode	BMI	1865591000006119	Ten year hip fracture probability score using FRAX (Fracture Risk Assessment Tool) with body mass index
+Aurum	Medcode	BMI	1865611000006113	Ten year osteoporotic fracture probability score using FRAX (Fracture Risk Assessment Tool) with body mass index
+Aurum	Medcode	BMI	1900331000006113	Obese class III (body mass index equal to or greater than 40.0)
+Aurum	Medcode	BMI	1991711000006112	Reason for influenza vaccine - BMI 40+
+Aurum	Medcode	BMI	1995621000006110	Malnutrition universal screening tool - BMI score
+Aurum	Medcode	BMI	2160062010	Body mass index 40+ - severely obese
+Aurum	Medcode	BMI	2196031000000118	Baseline body mass index centile
+Aurum	Medcode	BMI	2196071000000116	Baseline body mass index
+Aurum	Medcode	BMI	2350241000000116	Obese class I (body mass index 30.0 - 34.9)
+Aurum	Medcode	BMI	2350261000000115	Obese class II (body mass index 35.0 - 39.9)
+Aurum	Medcode	BMI	2474325012	Body mass index 20-24 - normal
+Aurum	Medcode	BMI	253844013	Normal body mass index
+Aurum	Medcode	BMI	253847018	Body mass index index 25-29 - overweight
+Aurum	Medcode	BMI	253848011	Body mass index 30+ - obesity
+Aurum	Medcode	BMI	3070611000006119	Normal BMI (body mass index)
+Aurum	Medcode	BMI	3484801000006114	BMI - Body mass index
+Aurum	Medcode	BMI	453856012	Body mass index less than 20
+Aurum	Medcode	BMI	4553701000006115	Body mass index 25-29 - overweight
+Aurum	Medcode	BMI	4553721000006113	BMI 25-29 - overweight
+Aurum	Medcode	BMI	4553741000006118	BMI 30+ - obesity
+Aurum	Medcode	BMI	5892201000006119	Observation of body mass index
+Aurum	Medcode	BMI	5998281000006119	BMI less than 20
+Aurum	Medcode	BMI	6763391000006114	Body mass index 40+ - morbidly obese
+Aurum	Medcode	BMI	6763401000006111	BMI (body mass index) 40+ - severely obese
+Aurum	Medcode	BMI	7068841000006116	Body mass index less than 16.5
+Aurum	Medcode	BMI	7332961000006118	BMI (body mass index) centile
+Aurum	Medcode	BMI	7732441000006111	Percentage median body mass index for age and sex
+Aurum	Medcode	BMI	7833991000006118	Overweight in adulthood with body mass index of 25 or more but less than 30
+Aurum	Medcode	BMI	8286961000006110	Baseline BMI (body mass index) centile
+Aurum	Medcode	BMI	8286991000006119	Baseline BMI (body mass index)
+Aurum	Medcode	BMI	8291811000006111	Maximum BMI (body mass index)
+Aurum	Medcode	BMI	923861000006112	Body mass index
+Aurum	Medcode	BMI	981731000006117	Overweight: adult BMI 25.0; child BMI 95th percentile; or more
+Aurum	Medcode	BMI	981741000006110	Underweight: adult BMI 18.5; child BMI 5th percentile; or less
+Aurum	Medcode	DEPRESSION	12127531000006113	Recurrent mild major depressive disorder co-occurrent with anxiety (disorder)
+Aurum	Medcode	DEPRESSION	12127551000006118	Recurrent moderate major depressive disorder co-occurrent with anxiety (disorder)
+Aurum	Medcode	DEPRESSION	138421012	Agitated depression (disorder)
+Aurum	Medcode	DEPRESSION	142521000006110	Major depression single episode, in partial remission (disorder)
+Aurum	Medcode	DEPRESSION	142541000006115	Severe major depression, single episode (disorder)
+Aurum	Medcode	DEPRESSION	1715181000006114	Moderate major depression (disorder)
+Aurum	Medcode	DEPRESSION	1715191000006112	Severe major depression with psychotic features (disorder)
+Aurum	Medcode	DEPRESSION	1715771000006112	Mild major depression (disorder)
+Aurum	Medcode	DEPRESSION	1715781000006110	Severe major depression without psychotic features (disorder)
+Aurum	Medcode	DEPRESSION	1755901000006112	Single major depressive episode, severe, with psychosis, psychosis in remission (disorder)
+Aurum	Medcode	DEPRESSION	1755911000006110	Recurrent major depressive episodes, severe, with psychosis, psychosis in remission (disorder)
+Aurum	Medcode	DEPRESSION	182721000006111	Recurrent major depressive episodes (disorder)
+Aurum	Medcode	DEPRESSION	182771000006112	Recurrent major depressive episodes, severe (disorder)
+Aurum	Medcode	DEPRESSION	182801000006114	Recurrent major depressive episodes, in partial remission (disorder)
+Aurum	Medcode	DEPRESSION	202561000006114	Prolonged depressive adjustment reaction (disorder)
+Aurum	Medcode	DEPRESSION	213641000000111	Mild depression (disorder)
+Aurum	Medcode	DEPRESSION	223741000000112	Severe depression (disorder)
+Aurum	Medcode	DEPRESSION	2729751000000118	Recurrent depression with current severe episode and psychotic features (disorder)
+Aurum	Medcode	DEPRESSION	2729991000000112	Recurrent depression with current severe episode without psychotic features (disorder)
+Aurum	Medcode	DEPRESSION	2730011000000110	Recurrent depression with current moderate episode (disorder)
+Aurum	Medcode	DEPRESSION	2798691000006112	Moderate recurrent major depression (disorder)
+Aurum	Medcode	DEPRESSION	2914841000006115	Major depressive disorder, single episode with postpartum onset (disorder)
+Aurum	Medcode	DEPRESSION	294642013	Presenile dementia with depression (disorder)
+Aurum	Medcode	DEPRESSION	294646011	Senile dementia with depression (disorder)
+Aurum	Medcode	DEPRESSION	294824018	Major depression, single episode (disorder)
+Aurum	Medcode	DEPRESSION	294825017	Mild major depression, single episode (disorder)
+Aurum	Medcode	DEPRESSION	294826016	Moderate major depression, single episode (disorder)
+Aurum	Medcode	DEPRESSION	294828015	Single major depressive episode, severe, with psychosis (disorder)
+Aurum	Medcode	DEPRESSION	294831019	Single episode of major depression in full remission (disorder)
+Aurum	Medcode	DEPRESSION	294832014	Major depression, single episode (disorder)
+Aurum	Medcode	DEPRESSION	294836012	Recurrent major depressive episodes (disorder)
+Aurum	Medcode	DEPRESSION	294837015	Recurrent major depressive episodes, mild (disorder)
+Aurum	Medcode	DEPRESSION	294838013	Recurrent major depressive episodes, moderate (disorder)
+Aurum	Medcode	DEPRESSION	294840015	Recurrent major depressive episodes, severe, with psychosis (disorder)
+Aurum	Medcode	DEPRESSION	294844012	Recurrent depression (disorder)
+Aurum	Medcode	DEPRESSION	294845013	Recurrent major depressive episodes (disorder)
+Aurum	Medcode	DEPRESSION	294894013	Atypical depressive disorder (disorder)
+Aurum	Medcode	DEPRESSION	294917018	Reactive depressive psychosis (disorder)
+Aurum	Medcode	DEPRESSION	294918011	Reactive depressive psychosis (disorder)
+Aurum	Medcode	DEPRESSION	295535012	Depressive disorder (disorder)
+Aurum	Medcode	DEPRESSION	295537016	Chronic depression (disorder)
+Aurum	Medcode	DEPRESSION	2957311000006113	Severe recurrent major depression with psychotic features (disorder)
+Aurum	Medcode	DEPRESSION	296137015	Mild depression (disorder)
+Aurum	Medcode	DEPRESSION	296138013	Moderate depression (disorder)
+Aurum	Medcode	DEPRESSION	296180012	Mild depression (disorder)
+Aurum	Medcode	DEPRESSION	296181011	Moderate depression (disorder)
+Aurum	Medcode	DEPRESSION	296198011	Depressive disorder in remission (disorder)
+Aurum	Medcode	DEPRESSION	296199015	Recurrent depression (disorder)
+Aurum	Medcode	DEPRESSION	296245018	Mixed anxiety and depressive disorder (disorder)
+Aurum	Medcode	DEPRESSION	3071791000006111	Depressive disorder (disorder)
+Aurum	Medcode	DEPRESSION	3071801000006112	Depressive disorder (disorder)
+Aurum	Medcode	DEPRESSION	3087971000006112	Severe recurrent major depression without psychotic features (disorder)
+Aurum	Medcode	DEPRESSION	3094951000006111	Major depression, single episode (disorder)
+Aurum	Medcode	DEPRESSION	3149661000006117	Mild recurrent major depression (disorder)
+Aurum	Medcode	DEPRESSION	3153071000006116	Recurrent brief depressive disorder (disorder)
+Aurum	Medcode	DEPRESSION	346972018	Endogenous depression first episode (disorder)
+Aurum	Medcode	DEPRESSION	346973011	Masked depression (disorder)
+Aurum	Medcode	DEPRESSION	359121000006116	Reactive depression (situational) (disorder)
+Aurum	Medcode	DEPRESSION	366561000006119	Atypical depressive disorder (disorder)
+Aurum	Medcode	DEPRESSION	367061000006114	Psychosis and severe depression co-occurrent and due to bipolar affective disorder (disorder)
+Aurum	Medcode	DEPRESSION	369982012	Seasonal affective disorder (disorder)
+Aurum	Medcode	DEPRESSION	3700911000006115	Severe major depression with psychotic features (disorder)
+Aurum	Medcode	DEPRESSION	3743451000006110	Severe major depression, single episode, without psychotic features (disorder)
+Aurum	Medcode	DEPRESSION	376691000006116	Depressive disorder (disorder)
+Aurum	Medcode	DEPRESSION	376711000006118	Depressive disorder (disorder)
+Aurum	Medcode	DEPRESSION	376721000006114	Depressive disorder (disorder)
+Aurum	Medcode	DEPRESSION	376741000006119	Dysthymia (disorder)
+Aurum	Medcode	DEPRESSION	379431000006113	Dysthymia (disorder)
+Aurum	Medcode	DEPRESSION	379771000006116	Severe major depression with psychotic features (disorder)
+Aurum	Medcode	DEPRESSION	379781000006118	Endogenous depression (disorder)
+Aurum	Medcode	DEPRESSION	396081000006116	Recurrent major depressive episodes (disorder)
+Aurum	Medcode	DEPRESSION	396771000006117	Severe recurrent major depression without psychotic features (disorder)
+Aurum	Medcode	DEPRESSION	396781000006119	Psychosis and severe depression co-occurrent and due to bipolar affective disorder (disorder)
+Aurum	Medcode	DEPRESSION	398351000006110	Mixed anxiety and depressive disorder (disorder)
+Aurum	Medcode	DEPRESSION	398561000006117	Mixed anxiety and depressive disorder (disorder)
+Aurum	Medcode	DEPRESSION	398841000006119	Depressive disorder (disorder)
+Aurum	Medcode	DEPRESSION	399841000006110	Dysthymia (disorder)
+Aurum	Medcode	DEPRESSION	399961000006118	Dysthymia (disorder)
+Aurum	Medcode	DEPRESSION	401766011	Major depression, single episode (disorder)
+Aurum	Medcode	DEPRESSION	401866015	Severe depression (disorder)
+Aurum	Medcode	DEPRESSION	401869010	Single major depressive episode, severe, with psychosis (disorder)
+Aurum	Medcode	DEPRESSION	401871010	Depressive disorder (disorder)
+Aurum	Medcode	DEPRESSION	401872015	Depressive disorder (disorder)
+Aurum	Medcode	DEPRESSION	401873013	Recurrent depression (disorder)
+Aurum	Medcode	DEPRESSION	401876017	Recurrent depression (disorder)
+Aurum	Medcode	DEPRESSION	410861011	Endogenous depression - recurrent (disorder)
+Aurum	Medcode	DEPRESSION	419841000006116	Mixed anxiety and depressive disorder (disorder)
+Aurum	Medcode	DEPRESSION	423041000006119	Post-schizophrenic depression (disorder)
+Aurum	Medcode	DEPRESSION	423611000006111	Reactive depression (situational) (disorder)
+Aurum	Medcode	DEPRESSION	424531000006118	Severe depression (disorder)
+Aurum	Medcode	DEPRESSION	424541000006111	Severe recurrent major depression with psychotic features (disorder)
+Aurum	Medcode	DEPRESSION	424551000006113	Recurrent major depressive episodes, severe, with psychosis (disorder)
+Aurum	Medcode	DEPRESSION	424561000006110	Recurrent brief depressive disorder (disorder)
+Aurum	Medcode	DEPRESSION	424571000006115	Severe recurrent major depression with psychotic features (disorder)
+Aurum	Medcode	DEPRESSION	424631000006119	Recurrent depression (disorder)
+Aurum	Medcode	DEPRESSION	424641000006112	Recurrent depression (disorder)
+Aurum	Medcode	DEPRESSION	424651000006114	Recurrent depression (disorder)
+Aurum	Medcode	DEPRESSION	424671000006116	Recurrent major depressive episodes, severe, with psychosis (disorder)
+Aurum	Medcode	DEPRESSION	424681000006118	Recurrent reactive depressive episodes, severe, with psychosis (disorder)
+Aurum	Medcode	DEPRESSION	425411000006110	Seasonal affective disorder (disorder)
+Aurum	Medcode	DEPRESSION	425501000006113	Schizoaffective disorder, depressive type (disorder)
+Aurum	Medcode	DEPRESSION	425561000006114	Schizoaffective disorder, depressive type (disorder)
+Aurum	Medcode	DEPRESSION	425691000006119	Schizoaffective disorder, depressive type (disorder)
+Aurum	Medcode	DEPRESSION	425751000006115	Seasonal affective disorder (disorder)
+Aurum	Medcode	DEPRESSION	426891000006114	Severe depression (disorder)
+Aurum	Medcode	DEPRESSION	426911000006111	Reactive depression (situational) (disorder)
+Aurum	Medcode	DEPRESSION	426921000006115	Single major depressive episode, severe, with psychosis (disorder)
+Aurum	Medcode	DEPRESSION	426931000006117	Masked depression (disorder)
+Aurum	Medcode	DEPRESSION	426941000006110	Reactive depression (situational) (disorder)
+Aurum	Medcode	DEPRESSION	426951000006112	Reactive depressive psychosis (disorder)
+Aurum	Medcode	DEPRESSION	426961000006114	Single major depressive episode, severe, with psychosis (disorder)
+Aurum	Medcode	DEPRESSION	426971000006119	Reactive depression (situational) (disorder)
+Aurum	Medcode	DEPRESSION	426981000006116	Reactive depressive psychosis (disorder)
+Aurum	Medcode	DEPRESSION	426991000006118	Severe depression (disorder)
+Aurum	Medcode	DEPRESSION	432511000006119	Severe depression (disorder)
+Aurum	Medcode	DEPRESSION	441826016	Endogenous depression (disorder)
+Aurum	Medcode	DEPRESSION	474171000006112	Agitated depression (disorder)
+Aurum	Medcode	DEPRESSION	488211000006112	Mixed anxiety and depressive disorder (disorder)
+Aurum	Medcode	DEPRESSION	5023901000006110	Post-schizophrenic depression (disorder)
+Aurum	Medcode	DEPRESSION	5024071000006118	Mixed anxiety and depressive disorder (disorder)
+Aurum	Medcode	DEPRESSION	513721000006114	Psychosis and severe depression co-occurrent and due to bipolar affective disorder (disorder)
+Aurum	Medcode	DEPRESSION	6000711000006112	Moderate depression (disorder)
+Aurum	Medcode	DEPRESSION	613781000006118	Dysthymia (disorder)
+Aurum	Medcode	DEPRESSION	613791000006115	Depressive disorder (disorder)
+Aurum	Medcode	DEPRESSION	6337491000006116	Major depressive disorder (disorder)
+Aurum	Medcode	DEPRESSION	6337501000006112	Major depressive disorder (disorder)
+Aurum	Medcode	DEPRESSION	642461000006116	Endogenous depression first episode (disorder)
+Aurum	Medcode	DEPRESSION	675861000006113	Reactive depression (situational) (disorder)
+Aurum	Medcode	DEPRESSION	677031000006115	Dysthymia (disorder)
+Aurum	Medcode	DEPRESSION	677321000006115	Dysthymia (disorder)
+Aurum	Medcode	DEPRESSION	7515151000006115	Depressive disorder in remission (disorder)
+Aurum	Medcode	DEPRESSION	7803711000006118	Moderately severe major depression single episode (disorder)
+Aurum	Medcode	DEPRESSION	8232571000006118	Single major depressive episode, severe, with psychosis, psychosis in remission (disorder)
+Aurum	Medcode	DEPRESSION	8232591000006117	Recurrent major depressive episodes, severe, with psychosis, psychosis in remission (disorder)
+Aurum	Medcode	DEPRESSION	8237831000006115	Recurrent major depressive episodes, in partial remission (disorder)
+Aurum	Medcode	DEPRESSION	8465321000006112	Reactive depression, prolonged single episode (disorder)
+Aurum	Medcode	DEPRESSION	882401000006115	Reactive depression (situational) (disorder)
+Aurum	Medcode	DEPRESSION	882421000006113	Dysthymia (disorder)
+Aurum	Medcode	DEPRESSION	882811000006119	[X]Mild depressive episode (disorder)
+Aurum	Medcode	DEPRESSION	882821000006110	[X]Moderate depressive episode (disorder)
+Aurum	Medcode	DEPRESSION	882831000006113	[X]Severe depressive episode without psychotic symptoms (disorder)
+Aurum	Medcode	DEPRESSION	967791000006111	Cotard's syndrome (disorder)
+Aurum	Medcode	DEPRESSION	9901161000006119	Mild major depressive disorder co-occurrent with anxiety single episode (disorder)
+Aurum	Medcode	DEPRESSION	9901261000006114	Moderate major depressive disorder co-occurrent with anxiety single episode (disorder)
+Aurum	Medcode	EGFR	12370051000006117	GFR (glomerular filtration rate) calculation technique
+Aurum	Medcode	EGFR	12621921000006110	Estimated glomerular filtration rate by laboratory calculation
+Aurum	Medcode	EGFR	12621931000006113	eGFR (estimated glomerular filtration rate) by laboratory calculation
+Aurum	Medcode	EGFR	12680441000006113	GFR - glomerular filtration rate
+Aurum	Medcode	EGFR	133205018	Glomerular filtration rate
+Aurum	Medcode	EGFR	1540241000006111	GFR (glomerular filtration rate) calculated by abbreviated Modification of Diet in Renal Disease Study Group calculation adjusted for African American origin
+Aurum	Medcode	EGFR	1744631000006112	Estimated glomerular filtration rate (eGFR) monitoring
+Aurum	Medcode	EGFR	1855001000006114	EGFR 3 month repeat test for CKD not diagnostic
+Aurum	Medcode	EGFR	1866321000006117	Estimated glomerular filtration rate using Chronic Kidney Disease Epidemiology Collaboration formula
+Aurum	Medcode	EGFR	1942821000006111	eGFR (estimated glomerular filtration rate) using cystatin C Chronic Kidney Disease Epidemiology Collaboration equation per 1.73 square metres
+Aurum	Medcode	EGFR	1942831000006114	eGFR (estimated glomerular filtration rate) using creatinine Chronic Kidney Disease Epidemiology Collaboration equation per 1.73 square metres
+Aurum	Medcode	EGFR	259690012	Creatinine clearance-glomerular filtration normal
+Aurum	Medcode	EGFR	259691011	Creatinine clearance-glomerular filtration abnormal
+Aurum	Medcode	EGFR	371441000000114	Glomerular filtration rate testing
+Aurum	Medcode	EGFR	5451521000006118	With GFR
+Aurum	Medcode	EGFR	5451531000006115	With glomerular filtration rate
+Aurum	Medcode	EGFR	8069731000006118	Glomerular filtration rate calculated by abbreviated Modification of Diet in Renal Disease Study Group calculation adjusted for African American origin
+Aurum	Medcode	EGFR	8250311000006118	Estimation of glomerular filtration rate
+Aurum	Medcode	EGFR	8294821000006118	eGFR (estimated glomerular filtration rate) using CKD-Epi (Chronic Kidney Disease Epidemiology Collaboration) formula
+Aurum	Medcode	EGFR	8352981000006116	eGFR (estimated glomerular filtration rate) using creatinine CKD-EPI (Chronic Kidney Disease Epidemiology Collaboration) equation
+Aurum	Medcode	EGFR	976481000006110	GFR (glomerular filtration rate) calculated by abbreviated Modification of Diet in Renal Disease Study Group calculation
+Aurum	Medcode	HBA1C	12622041000006111	HbA1c (haemoglobin A1c) molar concentration in blood
+Aurum	Medcode	HBA1C	1753211000006115	HbA1c (haemoglobin A1c) target level - IFCC (International Federation of Clinical Chemistry and Laboratory Medicine) standardised
+Aurum	Medcode	HBA1C	1986181000006111	HbA1c (haemoglobin A1c) level (diagnostic reference range) - IFCC (International Federation of Clinical Chemistry and Laboratory Medicine) standardised
+Aurum	Medcode	HBA1C	1986191000006114	HbA1c (haemoglobin A1c) level (monitoring ranges) - IFCC (International Federation of Clinical Chemistry and Laboratory Medicine) standardised
+Aurum	Medcode	HBA1C	3199181000006110	HbA1c - Haemoglobin A1c level
+Aurum	Medcode	HBA1C	3199191000006113	HbA1c - Hemoglobin A1c level
+Aurum	Medcode	HBA1C	457954013	HbA1c level (Diabetes Control and Complications Trial aligned)
+Aurum	Medcode	HBA1C	5417451000006114	Glycosylated haemoglobin
+Aurum	Medcode	HBA1C	6036701000006116	HbA1c measurement (DCCT aligned)
+Aurum	Medcode	HBA1C	6036711000006118	HbA1c level (DCCT aligned)
+Aurum	Medcode	HBA1C	7285141000006111	HBA1c (Haemoglobin A1c) level
+Aurum	Medcode	HBA1C	7285151000006113	HBA1c (Hemoglobin A1c) level
+Aurum	Medcode	HBA1C	7318701000006114	HbA1c (haemoglobin A1c) target - IFCC (International Federation of Clinical Chemistry and Laboratory Medicine) standardised
+Aurum	Medcode	HBA1C	7960861000006110	Glycated haemoglobin
+Aurum	Medcode	HBA1C	7960871000006115	Glycated hemoglobin
+Aurum	Medcode	HBA1C	7960891000006119	Glycated haemoglobin-A1c
+Aurum	Medcode	HBA1C	7960911000006117	HbA1c - Glycated hemoglobin-A1c
+Aurum	Medcode	HBA1C	7960921000006113	HbA1c - Glycated haemoglobin-A1c
+Aurum	Medcode	HBA1C	803891000006119	Glycated haemoglobin
+Aurum	Medcode	HBA1C	804121000006112	Glycosylated Hb
+Aurum	Medcode	HEIGHT	11905141000006112	O/E - height
+Aurum	Medcode	HEIGHT	1910921000006114	Estimated height
+Aurum	Medcode	HEIGHT	1910931000006112	Reported height
+Aurum	Medcode	HEIGHT	253669010	Standing height
+Aurum	Medcode	HEIGHT	253676017	O/E - height NOS
+Aurum	Medcode	HEIGHT	2729021000006118	Measuring height of patient
+Aurum	Medcode	HEIGHT	3315711000006110	Body height measure
+Aurum	Medcode	HEIGHT	3315721000006119	Body height
+Aurum	Medcode	HEIGHT	4551671000006115	On examination - height
+Aurum	Medcode	HEIGHT	5256071000006119	General finding of height
+Aurum	Medcode	HEIGHT	923831000006115	O/E - height
+Aurum	Medcode	HEIGHT	957731000006119	Height weight & BP
+Aurum	Medcode	HEIGHT	982601000006111	Height (Over)
+Aurum	Medcode	HEIGHT	982611000006114	Height (Under)
+Aurum	Medcode	HEIGHT_WEIGHT	253866018	Height and weight
+Aurum	Medcode	HEIGHT_WEIGHT	957731000006119	Height weight & BP
+Aurum	Medcode	HYPERTENSION	1011861000006110	adverse reaction to antihypertensive drugs
+Aurum	Medcode	HYPERTENSION	1011871000006115	adverse reaction to vasodilator antihypertensive drugs
+Aurum	Medcode	HYPERTENSION	1011881000006117	adverse reaction to centrally acting antihypertensive drugs
+Aurum	Medcode	HYPERTENSION	108730018	malignant hypertensive renal disease
+Aurum	Medcode	HYPERTENSION	11777411000006112	renal disease due to hypertension
+Aurum	Medcode	HYPERTENSION	12487991000006112	hypertensive treatm.changed
+Aurum	Medcode	HYPERTENSION	12488211000006112	hypertension treatm. started
+Aurum	Medcode	HYPERTENSION	12488221000006116	hypertension treatm.stopped
+Aurum	Medcode	HYPERTENSION	12496011	hypertensive retinopathy
+Aurum	Medcode	HYPERTENSION	12726231000006116	adverse reaction to other antihypertensives
+Aurum	Medcode	HYPERTENSION	12726241000006112	adverse reaction to antihypertensives nos
+Aurum	Medcode	HYPERTENSION	131046010	malignant essential hypertension
+Aurum	Medcode	HYPERTENSION	1409014	benign hypertensive renal disease
+Aurum	Medcode	HYPERTENSION	151161000006115	secondary malignant hypertension
+Aurum	Medcode	HYPERTENSION	1529013	blind hypertensive eye
+Aurum	Medcode	HYPERTENSION	158241000006117	secondary hypertension nos
+Aurum	Medcode	HYPERTENSION	1706551000000114	hypertension 9 month review
+Aurum	Medcode	HYPERTENSION	1780252014	hypertension treatment refused
+Aurum	Medcode	HYPERTENSION	1780253016	hypertension six month review
+Aurum	Medcode	HYPERTENSION	1780318013	moderate hypertension control
+Aurum	Medcode	HYPERTENSION	1780319017	hypertension annual review
+Aurum	Medcode	HYPERTENSION	1806071000006118	stage 1 hypertension
+Aurum	Medcode	HYPERTENSION	1806081000006115	stage 2 hypertension
+Aurum	Medcode	HYPERTENSION	1806141000006113	severe hypertension
+Aurum	Medcode	HYPERTENSION	1823901000006112	hypertension confirmed
+Aurum	Medcode	HYPERTENSION	1846941000006119	stage 1 hypertension (nice - nat ins for hth clin excl 2011)
+Aurum	Medcode	HYPERTENSION	1846961000006115	severe hypertension (nat inst for health clinical ex 2011)
+Aurum	Medcode	HYPERTENSION	1846991000006111	stage 2 hypertension (nice - nat ins for hth clin excl 2011)
+Aurum	Medcode	HYPERTENSION	1908711000006115	stage 1 hyperten (nice 2011) without evidnce end organ damge
+Aurum	Medcode	HYPERTENSION	1908721000006111	stage 1 hyperten (nice 2011) with evidnce end organ damge
+Aurum	Medcode	HYPERTENSION	19411000006110	other pre-exist hypertension in preg/childb/puerp + p/n comp
+Aurum	Medcode	HYPERTENSION	19421000006119	other pre-exist hypertension in preg/childb/puerp-not deliv
+Aurum	Medcode	HYPERTENSION	19431000006116	other pre-existing hypertension in preg/childb/puerp - deliv
+Aurum	Medcode	HYPERTENSION	19441000006114	other pre-existing hypertension in preg/childb/puerp nos
+Aurum	Medcode	HYPERTENSION	19451000006111	other pre-existing hypertension in preg/childb/puerp unspec
+Aurum	Medcode	HYPERTENSION	1992471000006116	vte risk assessment - uncontrolled systolic hypertension
+Aurum	Medcode	HYPERTENSION	2011000033113	antihypertensive drugs
+Aurum	Medcode	HYPERTENSION	2115801000000110	hypertension self-management plan review
+Aurum	Medcode	HYPERTENSION	2117971000000119	hypertension self-management plan agreed
+Aurum	Medcode	HYPERTENSION	212961000006118	pre-eclampsia or eclampsia + pre-existing hypertension nos
+Aurum	Medcode	HYPERTENSION	213081000006118	pre-exist 2ndry hypertens comp preg childbth and puerperium
+Aurum	Medcode	HYPERTENSION	213111000006112	pre-exist hypertension compl preg childbirth and puerperium
+Aurum	Medcode	HYPERTENSION	2159168015	patient on maximal tolerated antihypertensive therapy
+Aurum	Medcode	HYPERTENSION	2193021000000110	severe hypertension
+Aurum	Medcode	HYPERTENSION	2193031000000112	stage 1 hypertension
+Aurum	Medcode	HYPERTENSION	2193971000000110	hypertension resistant to drug therapy
+Aurum	Medcode	HYPERTENSION	2474335018	hypertension clinical management plan
+Aurum	Medcode	HYPERTENSION	2478822013	secondary benign renovascular hypertension
+Aurum	Medcode	HYPERTENSION	251674014	h/o: hypertension
+Aurum	Medcode	HYPERTENSION	264471012	good hypertension control
+Aurum	Medcode	HYPERTENSION	264472017	poor hypertension control
+Aurum	Medcode	HYPERTENSION	264473010	hypertension:follow-up default
+Aurum	Medcode	HYPERTENSION	264485019	hypertension treatm. started
+Aurum	Medcode	HYPERTENSION	264486018	hypertensive treatm.changed
+Aurum	Medcode	HYPERTENSION	264487010	hypertension treatm.stopped
+Aurum	Medcode	HYPERTENSION	28311000033116	vasodilator antihypertensive drugs
+Aurum	Medcode	HYPERTENSION	28411000033112	centrally acting antihypertensive drugs
+Aurum	Medcode	HYPERTENSION	299676019	secondary malignant renovascular hypertension
+Aurum	Medcode	HYPERTENSION	299677011	secondary malignant hypertension nos
+Aurum	Medcode	HYPERTENSION	299678018	secondary benign hypertension
+Aurum	Medcode	HYPERTENSION	299680012	secondary benign hypertension nos
+Aurum	Medcode	HYPERTENSION	299681011	hypertension secondary to endocrine disorders
+Aurum	Medcode	HYPERTENSION	299682016	secondary hypertension nos
+Aurum	Medcode	HYPERTENSION	299683014	secondary renovascular hypertension nos
+Aurum	Medcode	HYPERTENSION	299684015	hypertension secondary to drug
+Aurum	Medcode	HYPERTENSION	299686018	other specified hypertensive disease
+Aurum	Medcode	HYPERTENSION	299687010	hypertensive disease nos
+Aurum	Medcode	HYPERTENSION	300869017	[x]hypertensive diseases
+Aurum	Medcode	HYPERTENSION	300870016	[x]other secondary hypertension
+Aurum	Medcode	HYPERTENSION	300871017	[x]hypertension secondary to other renal disorders
+Aurum	Medcode	HYPERTENSION	305764016	other pre-existing hypertension in preg/childbirth/puerp
+Aurum	Medcode	HYPERTENSION	305818015	pre-eclampsia or eclampsia with pre-existing hypertension
+Aurum	Medcode	HYPERTENSION	3117411000006118	high blood pressure
+Aurum	Medcode	HYPERTENSION	3117421000006114	hypertensive vascular disease
+Aurum	Medcode	HYPERTENSION	3117431000006112	hypertensive vascular degeneration
+Aurum	Medcode	HYPERTENSION	3117451000006117	bp - high blood pressure
+Aurum	Medcode	HYPERTENSION	3117461000006115	systemic arterial hypertension
+Aurum	Medcode	HYPERTENSION	3117471000006110	hbp - high blood pressure
+Aurum	Medcode	HYPERTENSION	3117481000006113	ht - hypertension
+Aurum	Medcode	HYPERTENSION	3117491000006111	high blood pressure disorder
+Aurum	Medcode	HYPERTENSION	3117501000006115	bp+ - hypertension
+Aurum	Medcode	HYPERTENSION	3117511000006117	htn - hypertension
+Aurum	Medcode	HYPERTENSION	3117521000006113	hypertensive disorder, systemic arterial
+Aurum	Medcode	HYPERTENSION	3119661000006114	hypertensive nephropathy
+Aurum	Medcode	HYPERTENSION	3135013	benign essential hypertension
+Aurum	Medcode	HYPERTENSION	324338010	other hypertensive agent poisoning
+Aurum	Medcode	HYPERTENSION	324342013	hypertensive agent poisoning nos
+Aurum	Medcode	HYPERTENSION	331291010	adverse reaction to other antihypertensives
+Aurum	Medcode	HYPERTENSION	331302012	adverse reaction to antihypertensives nos
+Aurum	Medcode	HYPERTENSION	350601000000116	high cost hypertension drugs
+Aurum	Medcode	HYPERTENSION	351341000000118	high cost hypertension drugs nos
+Aurum	Medcode	HYPERTENSION	351361000000117	other specified high cost hypertension drugs
+Aurum	Medcode	HYPERTENSION	351481000006111	[x] adverse reaction to antihypertensives nos
+Aurum	Medcode	HYPERTENSION	356121000006111	[x] adverse reaction to other antihypertensives
+Aurum	Medcode	HYPERTENSION	3642801000006112	malignant hypertension
+Aurum	Medcode	HYPERTENSION	3693711000006119	benign secondary renovascular hypertension
+Aurum	Medcode	HYPERTENSION	3784371000006115	accelerated essential hypertension
+Aurum	Medcode	HYPERTENSION	3898601000006112	pre-existing hypertension in obstetric context
+Aurum	Medcode	HYPERTENSION	3898611000006110	pre-existing hypertension complicating pregnancy
+Aurum	Medcode	HYPERTENSION	3950631000006119	accelerated secondary hypertension
+Aurum	Medcode	HYPERTENSION	395751018	essential hypertension nos
+Aurum	Medcode	HYPERTENSION	395753015	hypertensive renal disease nos
+Aurum	Medcode	HYPERTENSION	39871000006113	oth pre-exist hypert in preg/childb/puerp -del with p/n comp
+Aurum	Medcode	HYPERTENSION	404471000006113	[x]oth antihyperten drug caus advers eff in therap use, nec
+Aurum	Medcode	HYPERTENSION	4199551000006110	antihypertensive poisoning
+Aurum	Medcode	HYPERTENSION	4199561000006112	poisoning caused by antihypertensive agent
+Aurum	Medcode	HYPERTENSION	422681000006111	[x]poisoning by other antihypertensive drugs, nec
+Aurum	Medcode	HYPERTENSION	4356081000006115	hypertension due to renovascular disease
+Aurum	Medcode	HYPERTENSION	443764015	on treatment for hypertension
+Aurum	Medcode	HYPERTENSION	451424017	antihypertensive therapy
+Aurum	Medcode	HYPERTENSION	4540441000006117	history of hypertension
+Aurum	Medcode	HYPERTENSION	4634851000006119	treatment for hypertension started
+Aurum	Medcode	HYPERTENSION	4634871000006112	hypertensive treatment changed
+Aurum	Medcode	HYPERTENSION	4634891000006113	treatment for hypertension stopped
+Aurum	Medcode	HYPERTENSION	47076011	renal hypertension
+Aurum	Medcode	HYPERTENSION	4775791000006113	malignant secondary renovascular hypertension
+Aurum	Medcode	HYPERTENSION	4775831000006118	hypertension secondary to endocrine disorder
+Aurum	Medcode	HYPERTENSION	4775861000006110	hypertension caused by drug
+Aurum	Medcode	HYPERTENSION	523801000006119	bp - hypertensive disease
+Aurum	Medcode	HYPERTENSION	530161000000111	trial reduction of antihypertensive therapy
+Aurum	Medcode	HYPERTENSION	530221000000112	trial withdrawal of antihypertensive therapy
+Aurum	Medcode	HYPERTENSION	53452019	secondary hypertension
+Aurum	Medcode	HYPERTENSION	535591000000118	trial withdrawal of antihypertensive therapy declined
+Aurum	Medcode	HYPERTENSION	535651000000113	trial reduction of antihypertensive therapy declined
+Aurum	Medcode	HYPERTENSION	64168014	hypertensive disease
+Aurum	Medcode	HYPERTENSION	64172013	high blood pressure
+Aurum	Medcode	HYPERTENSION	64282015	hypertensive renal disease
+Aurum	Medcode	HYPERTENSION	790031000006119	hypertension annual review
+Aurum	Medcode	HYPERTENSION	790121000006116	hypertension nos
+Aurum	Medcode	HYPERTENSION	80224019	diastolic hypertension
+Aurum	Medcode	HYPERTENSION	8286321000006117	resistant hypertension
+Aurum	Medcode	HYPERTENSION	8286581000006114	stage 2 hypertension
+Aurum	Medcode	HYPERTENSION	84111015	hypertensive encephalopathy
+Aurum	Medcode	HYPERTENSION	84112010	hypertensive crisis
+Aurum	Medcode	HYPERTENSION	884121000006111	malignant hypertension
+Aurum	Medcode	HYPERTENSION	887811000006117	preg.+ pre-existing hypertensn
+Aurum	Medcode	HYPERTENSION	909441000006118	[rfc] hypertension
+Aurum	Medcode	HYPERTENSION	93494011	systolic hypertension
+Aurum	Medcode	HYPERTENSION	940001000006110	hypertension medication review
+Aurum	Medcode	HYPERTENSION	99042012	essential hypertension
+Aurum	Medcode	HYPERTENSION	99047018	primary hypertension
+Aurum	Medcode	LDL	12623411000006112	LDL-C (low density lipoprotein cholesterol) substance concentration in serum
+Aurum	Medcode	LDL	259233017	Serum low density lipoprotein cholesterol level
+Aurum	Medcode	LDL	259246010	Serum fasting LDL (low density lipoprotein) cholesterol level
+Aurum	Medcode	LDL	259247018	Serum random LDL (low density lipoprotein) cholesterol level
+Aurum	Medcode	LDL	259569014	Plasma random LDL (low density lipoprotein) cholesterol level
+Aurum	Medcode	LDL	259570010	Plasma fasting LDL (low density lipoprotein) cholesterol level
+Aurum	Medcode	LDL	2854331000006115	Low density lipoprotein
+Aurum	Medcode	LDL	2854351000006110	LDL
+Aurum	Medcode	LDL	4079621000006115	LDL cholesterol
+Aurum	Medcode	LDL	4217651000006116	Low density lipoprotein cholesterol measurement
+Aurum	Medcode	LDL	4217681000006112	LDL - Low density lipoprotein cholesterol level
+Aurum	Medcode	LDL	458314019	Plasma LDL (low density lipoprotein) cholesterol level
+Aurum	Medcode	LDL	4600231000006111	Serum LDL cholesterol measurement
+Aurum	Medcode	LDL	4600241000006118	Serum LDL cholesterol level
+Aurum	Medcode	LDL	6550661000006112	Calculated LDL cholesterol level
+Aurum	Medcode	LDL	857141000006116	LDL cholesterol level
+Aurum	Medcode	SYSTOLIC BLOOD PRESSURE	1780182014	Standing systolic blood pressure
+Aurum	Medcode	SYSTOLIC BLOOD PRESSURE	1808011000006111	Systolic blood pressure - left arm
+Aurum	Medcode	SYSTOLIC BLOOD PRESSURE	1808041000006110	Systolic blood pressure - right arm
+Aurum	Medcode	SYSTOLIC BLOOD PRESSURE	1994021000006115	Home systolic blood pressure
+Aurum	Medcode	SYSTOLIC BLOOD PRESSURE	2159155011	Sitting systolic blood pressure
+Aurum	Medcode	SYSTOLIC BLOOD PRESSURE	2159157015	Lying systolic blood pressure
+Aurum	Medcode	SYSTOLIC BLOOD PRESSURE	2418961000000111	Baseline systolic blood pressure
+Aurum	Medcode	SYSTOLIC BLOOD PRESSURE	2533615017	Average home systolic blood pressure
+Aurum	Medcode	SYSTOLIC BLOOD PRESSURE	298281000000114	Ambulatory systolic blood pressure
+Aurum	Medcode	SYSTOLIC BLOOD PRESSURE	3676271000006117	Systolic blood pressure
+Aurum	Medcode	SYSTOLIC BLOOD PRESSURE	458803012	Average systolic blood pressure
+Aurum	Medcode	SYSTOLIC BLOOD PRESSURE	458812014	Average 24 hour systolic blood pressure
+Aurum	Medcode	SYSTOLIC BLOOD PRESSURE	5527191000006114	Systolic blood pressure
+Aurum	Medcode	SYSTOLIC BLOOD PRESSURE	6046311000006118	24 hour systolic blood pressure
+Aurum	Medcode	WEIGHT	11905011000006114	O/E - weight
+Aurum	Medcode	WEIGHT	1780175010	Baseline weight
+Aurum	Medcode	WEIGHT	1910901000006116	Estimated weight
+Aurum	Medcode	WEIGHT	1910911000006118	Reported weight
+Aurum	Medcode	WEIGHT	2536041016	Weight static
+Aurum	Medcode	WEIGHT	253677014	Body weight
+Aurum	Medcode	WEIGHT	253688015	O/E - weight NOS
+Aurum	Medcode	WEIGHT	2934311000006118	Weight
+Aurum	Medcode	WEIGHT	3484791000006113	Weight: body mass
+Aurum	Medcode	WEIGHT	3514400010	Current body weight
+Aurum	Medcode	WEIGHT	406169014	Weight steady
+Aurum	Medcode	WEIGHT	4551811000006113	On examination - weight
+Aurum	Medcode	WEIGHT	457849017	Weight of calculus
+Aurum	Medcode	WEIGHT	5533851000006117	Weights
+Aurum	Medcode	WEIGHT	59281000006111	Weight screening
+Aurum	Medcode	WEIGHT	6251151000006116	Body weight measure
+Aurum	Medcode	WEIGHT	6702411000006117	General appraisal of patient weight
+Aurum	Medcode	WEIGHT	7309791000006112	Dry body weight
+Aurum	Medcode	WEIGHT	7309801000006113	Dry weight
+Aurum	Medcode	WEIGHT	7879461000006116	Weight
+Aurum	Medcode	WEIGHT	7879471000006111	Weight (property)
+Aurum	Medcode	WEIGHT	923851000006110	O/E - weight
+Aurum	Medcode	WEIGHT	982581000006118	Weight (Over)
+Aurum	Medcode	WEIGHT	982591000006115	Weight (Under)
+GOLD	Medcode	ANXIETY	101725	[X]Chron post-traumatic stress disorder follow military comb
+GOLD	Medcode	ANXIETY	101785	[X]Acute post-traumatic stress disorder follow military comb
+GOLD	Medcode	ANXIETY	10344	[X]Generalized anxiety disorder
+GOLD	Medcode	ANXIETY	107134	Flooding - obsessional compulsive disorder
+GOLD	Medcode	ANXIETY	108107	Patient given advice about management of anxiety
+GOLD	Medcode	ANXIETY	11280	[X]Claustrophobia
+GOLD	Medcode	ANXIETY	113199	[X]Delayed post-traumat stress disorder follow military comb
+GOLD	Medcode	ANXIETY	114506	Referral for guided self-help for anxiety declined
+GOLD	Medcode	ANXIETY	115444	[X]Anthropophobia
+GOLD	Medcode	ANXIETY	11602	[X]Social phobias
+GOLD	Medcode	ANXIETY	11890	C/O - panic attack
+GOLD	Medcode	ANXIETY	11913	[X]Mixed anxiety and depressive disorder
+GOLD	Medcode	ANXIETY	12508	[X]Needle phobia
+GOLD	Medcode	ANXIETY	12635	[X]Simple phobia
+GOLD	Medcode	ANXIETY	12838	Agoraphobia without mention of panic attacks
+GOLD	Medcode	ANXIETY	14729	Phobic disorder NOS
+GOLD	Medcode	ANXIETY	14780	Neurotic disorder NOS
+GOLD	Medcode	ANXIETY	14890	[X]Panic disorder with agoraphobia
+GOLD	Medcode	ANXIETY	15220	[X]Persistant anxiety depression
+GOLD	Medcode	ANXIETY	15566	Obsessive-compulsive disorder NOS
+GOLD	Medcode	ANXIETY	16199	Social phobia, fear of eating in public
+GOLD	Medcode	ANXIETY	16638	Social phobic disorders
+GOLD	Medcode	ANXIETY	16729	[X]Agoraphobia without history of panic disorder
+GOLD	Medcode	ANXIETY	1723	Claustrophobia
+GOLD	Medcode	ANXIETY	1758	Chronic anxiety
+GOLD	Medcode	ANXIETY	18032	[X]Separation anxiety disorder of childhood
+GOLD	Medcode	ANXIETY	18248	[X]Animal phobias
+GOLD	Medcode	ANXIETY	18399	[X]Mixed obsessional thoughts and acts
+GOLD	Medcode	ANXIETY	18603	Social phobia, fear of public washing
+GOLD	Medcode	ANXIETY	19000	O/E - panic attack
+GOLD	Medcode	ANXIETY	1907	Phobic disorders
+GOLD	Medcode	ANXIETY	2030	Obsessional neurosis
+GOLD	Medcode	ANXIETY	20634	[X]Predominantly obsessional thoughts or ruminations
+GOLD	Medcode	ANXIETY	20773	[X]Organic anxiety disorder
+GOLD	Medcode	ANXIETY	20802	Flying phobia
+GOLD	Medcode	ANXIETY	21836	[X]Obsessive-compulsive neurosis
+GOLD	Medcode	ANXIETY	22721	[X]Obsessive-compulsive disorder, unspecified
+GOLD	Medcode	ANXIETY	2300	Phobia unspecified
+GOLD	Medcode	ANXIETY	23838	[X]Anxiety disorder, unspecified
+GOLD	Medcode	ANXIETY	24066	[X]Other specified anxiety disorders
+GOLD	Medcode	ANXIETY	24351	[X]Phobic anxiety disorder of childhood
+GOLD	Medcode	ANXIETY	2571	[X]Agoraphobia
+GOLD	Medcode	ANXIETY	25749	Phobia counselling
+GOLD	Medcode	ANXIETY	27685	[X]Other phobic anxiety disorders
+GOLD	Medcode	ANXIETY	28106	Acrophobia
+GOLD	Medcode	ANXIETY	28167	[X]Anxiety hysteria
+GOLD	Medcode	ANXIETY	28925	Referral for guided self-help for anxiety
+GOLD	Medcode	ANXIETY	29907	[X]Social anxiety disorder of childhood
+GOLD	Medcode	ANXIETY	3076	Agoraphobia with panic attacks
+GOLD	Medcode	ANXIETY	3076	Agoraphobia with panic attacks
+GOLD	Medcode	ANXIETY	31957	Social phobia, fear of public speaking
+GOLD	Medcode	ANXIETY	3208	Obsessive-compulsive disorders
+GOLD	Medcode	ANXIETY	34064	[X]Phobic anxiety disorder, unspecified
+GOLD	Medcode	ANXIETY	38809	[X]Other obsessive-compulsive disorders
+GOLD	Medcode	ANXIETY	4069	Panic disorder
+GOLD	Medcode	ANXIETY	4081	[X]Panic state
+GOLD	Medcode	ANXIETY	4171	[X]Post - traumatic stress disorder
+GOLD	Medcode	ANXIETY	42788	[X]Social neurosis
+GOLD	Medcode	ANXIETY	44321	[X]Other mixed anxiety disorders
+GOLD	Medcode	ANXIETY	462	Panic attack
+GOLD	Medcode	ANXIETY	4634	Recurrent anxiety
+GOLD	Medcode	ANXIETY	4659	Generalised anxiety disorder
+GOLD	Medcode	ANXIETY	47365	Anancastic neurosis
+GOLD	Medcode	ANXIETY	5304	[X]Obsessive - compulsive disorder
+GOLD	Medcode	ANXIETY	5385	[X]Other anxiety disorders
+GOLD	Medcode	ANXIETY	5678	Compulsive neurosis
+GOLD	Medcode	ANXIETY	61430	[X]Childhood overanxious disorder
+GOLD	Medcode	ANXIETY	63521	Antiphobic therapy
+GOLD	Medcode	ANXIETY	6408	[X]Panic attack
+GOLD	Medcode	ANXIETY	655	Anxiety with depression
+GOLD	Medcode	ANXIETY	67898	[X]Phobic state NOS
+GOLD	Medcode	ANXIETY	67965	[X]Acrophobia
+GOLD	Medcode	ANXIETY	70779	[X]Combat fatigue
+GOLD	Medcode	ANXIETY	7222	[X]Phobia NOS
+GOLD	Medcode	ANXIETY	7749	[X]Mild anxiety depression
+GOLD	Medcode	ANXIETY	7999	Anxiety counselling
+GOLD	Medcode	ANXIETY	8205	[X]Panic disorder [episodic paroxysmal anxiety]
+GOLD	Medcode	ANXIETY	9125	Anxiety management training
+GOLD	Medcode	ANXIETY	9386	[X]Phobic anxiety disorders
+GOLD	Medcode	ANXIETY	962	[X]Anxiety neurosis
+GOLD	Medcode	ANXIETY	9785	[X]Specific (isolated) phobias
+GOLD	Medcode	ANXIETY	9944	Phobic anxiety
+GOLD	Medcode	DEPRESSION	10015	Depressed mood
+GOLD	Medcode	DEPRESSION	10290	[X]Depressive personality disorder
+GOLD	Medcode	DEPRESSION	103677	[X]Antenatal depression
+GOLD	Medcode	DEPRESSION	10455	Depressive personality disorder
+GOLD	Medcode	DEPRESSION	1055	Agitated depression
+GOLD	Medcode	DEPRESSION	10610	Single major depressive episode
+GOLD	Medcode	DEPRESSION	10667	[X]Mild depression
+GOLD	Medcode	DEPRESSION	10720	[X]Atypical depression
+GOLD	Medcode	DEPRESSION	11055	[X]Schizoaffective disorder, depressive type
+GOLD	Medcode	DEPRESSION	11252	[X]Major depression, recurrent without psychotic symptoms
+GOLD	Medcode	DEPRESSION	1131	Neurotic depression reactive type
+GOLD	Medcode	DEPRESSION	11329	[X]Endogenous depression without psychotic symptoms
+GOLD	Medcode	DEPRESSION	11596	Unspecified manic-depressive psychoses
+GOLD	Medcode	DEPRESSION	11717	[X]Mild depressive episode
+GOLD	Medcode	DEPRESSION	11913	[X]Mixed anxiety and depressive disorder
+GOLD	Medcode	DEPRESSION	12099	[X]Severe depressive episode with psychotic symptoms
+GOLD	Medcode	DEPRESSION	12122	Depression medication review
+GOLD	Medcode	DEPRESSION	12399	Depression annual review
+GOLD	Medcode	DEPRESSION	12831	Manic-depressive - now depressed
+GOLD	Medcode	DEPRESSION	13307	[X]Postnatal depression NOS
+GOLD	Medcode	DEPRESSION	14709	Recurrent major depressive episodes, moderate
+GOLD	Medcode	DEPRESSION	15099	Recurrent major depressive episode
+GOLD	Medcode	DEPRESSION	15155	Single major depressive episode, moderate
+GOLD	Medcode	DEPRESSION	15219	Single major depressive episode, severe, without psychosis
+GOLD	Medcode	DEPRESSION	15220	[X]Persistant anxiety depression
+GOLD	Medcode	DEPRESSION	1531	[X]Manic-depressive illness
+GOLD	Medcode	DEPRESSION	1533	Brief depressive reaction
+GOLD	Medcode	DEPRESSION	15923	Bipolar affective disorder, currently depressed, unspecified
+GOLD	Medcode	DEPRESSION	16506	Single major depressive episode, mild
+GOLD	Medcode	DEPRESSION	16632	Prolonged depressive reaction
+GOLD	Medcode	DEPRESSION	16861	[X]Recurrent severe episodes of psychotic depression
+GOLD	Medcode	DEPRESSION	17385	Manic-depressive - now manic
+GOLD	Medcode	DEPRESSION	17770	Psychotic reactive depression
+GOLD	Medcode	DEPRESSION	18510	[X]Single episode of psychogenic depression
+GOLD	Medcode	DEPRESSION	18702	Postnatal depression counselling
+GOLD	Medcode	DEPRESSION	19054	[X]Recurrent brief depressive episodes
+GOLD	Medcode	DEPRESSION	1908	O/E - depressed
+GOLD	Medcode	DEPRESSION	19696	[X]Recurrent episodes of psychogenic depression
+GOLD	Medcode	DEPRESSION	1996	Depressed
+GOLD	Medcode	DEPRESSION	20785	[X]Post-schizophrenic depression
+GOLD	Medcode	DEPRESSION	21887	Senile dementia with depression
+GOLD	Medcode	DEPRESSION	22116	[X]Recurrent depressive disorder, currently in remission
+GOLD	Medcode	DEPRESSION	22806	[X]Single episode major depression w'out psychotic symptoms
+GOLD	Medcode	DEPRESSION	23731	[X]Endogenous depression with psychotic symptoms
+GOLD	Medcode	DEPRESSION	24112	[X]Single episode of psychotic depression
+GOLD	Medcode	DEPRESSION	24117	[X]Single episode of major depression and psychotic symptoms
+GOLD	Medcode	DEPRESSION	24171	Recurrent major depressive episodes, severe, with psychosis
+GOLD	Medcode	DEPRESSION	25563	Recurrent major depressive episode NOS
+GOLD	Medcode	DEPRESSION	2560	Depressive psychoses
+GOLD	Medcode	DEPRESSION	25697	Recurrent major depressive episodes, severe, no psychosis
+GOLD	Medcode	DEPRESSION	2639	Postnatal depression
+GOLD	Medcode	DEPRESSION	27491	Atypical depressive disorder
+GOLD	Medcode	DEPRESSION	27677	Presenile dementia with depression
+GOLD	Medcode	DEPRESSION	27759	[X] Senile dementia, depressed or paranoid type
+GOLD	Medcode	DEPRESSION	27890	Bipolar affective disorder, currently depressed, moderate
+GOLD	Medcode	DEPRESSION	28248	[X]Prolonged single episode of reactive depression
+GOLD	Medcode	DEPRESSION	28677	[X]Manic-depress psychosis,depressed type+psychotic symptoms
+GOLD	Medcode	DEPRESSION	28756	[X]Seasonal depressive disorder
+GOLD	Medcode	DEPRESSION	28863	[X]Single episode of reactive depressive psychosis
+GOLD	Medcode	DEPRESSION	2923	Puerperal depression
+GOLD	Medcode	DEPRESSION	29342	Recurrent major depressive episodes, mild
+GOLD	Medcode	DEPRESSION	29451	[X]Manic-depress psychosis,depressd,no psychotic symptoms
+GOLD	Medcode	DEPRESSION	29520	[X]Recurrent depressive disorder, current episode moderate
+GOLD	Medcode	DEPRESSION	29527	[D]Postoperative depression
+GOLD	Medcode	DEPRESSION	2970	[X]Depressive episode, unspecified
+GOLD	Medcode	DEPRESSION	2972	Postviral depression
+GOLD	Medcode	DEPRESSION	29784	[X]Recurrent depressive disorder, current episode mild
+GOLD	Medcode	DEPRESSION	30405	Depression interim review
+GOLD	Medcode	DEPRESSION	30483	Patient given advice about management of depression
+GOLD	Medcode	DEPRESSION	30583	Depression - enhanced services administration
+GOLD	Medcode	DEPRESSION	31757	[X]Recurr severe episodes/psychogenic depressive psychosis
+GOLD	Medcode	DEPRESSION	32159	Single major depressive episode, severe, with psychosis
+GOLD	Medcode	DEPRESSION	324	Depressive disorder NEC
+GOLD	Medcode	DEPRESSION	32841	Referral for guided self-help for depression
+GOLD	Medcode	DEPRESSION	32845	[X]Depressive conduct disorder
+GOLD	Medcode	DEPRESSION	3291	[X]Depressive disorder NOS
+GOLD	Medcode	DEPRESSION	3292	[X]Recurrent depressive disorder
+GOLD	Medcode	DEPRESSION	32941	[X]Recurr severe episodes/major depression+psychotic symptom
+GOLD	Medcode	DEPRESSION	33426	Other and unspecified manic-depressive psychoses NOS
+GOLD	Medcode	DEPRESSION	33469	[X]Recurr depress disorder cur epi severe without psyc sympt
+GOLD	Medcode	DEPRESSION	34390	Single major depressive episode, unspecified
+GOLD	Medcode	DEPRESSION	35274	[X]Schizoaffective psychosis, depressive type
+GOLD	Medcode	DEPRESSION	35607	Bipolar affect disord, now depressed, severe, no psychosis
+GOLD	Medcode	DEPRESSION	35671	Recurrent major depressive episodes, unspecified
+GOLD	Medcode	DEPRESSION	35734	Bipolar affective disorder, currently depressed, mild
+GOLD	Medcode	DEPRESSION	36246	Brief depressive reaction NOS
+GOLD	Medcode	DEPRESSION	36616	[X]Monopolar depression NOS
+GOLD	Medcode	DEPRESSION	37296	Bipolar affective disorder, currently depressed, NOS
+GOLD	Medcode	DEPRESSION	37764	[X]Recurrent severe episodes/reactive depressive psychosis
+GOLD	Medcode	DEPRESSION	41022	[X]Schizophreniform psychosis, depressive type
+GOLD	Medcode	DEPRESSION	41089	Senile dementia with depressive or paranoid features NOS
+GOLD	Medcode	DEPRESSION	42931	On depression register
+GOLD	Medcode	DEPRESSION	4323	Chronic depression
+GOLD	Medcode	DEPRESSION	43292	Arteriosclerotic dementia with depression
+GOLD	Medcode	DEPRESSION	43324	Single major depressive episode, partial or unspec remission
+GOLD	Medcode	DEPRESSION	44300	[X]Recurrent depressive disorder, unspecified
+GOLD	Medcode	DEPRESSION	44674	Senile dementia with depressive or paranoid features
+GOLD	Medcode	DEPRESSION	44848	Depression management programme
+GOLD	Medcode	DEPRESSION	46244	Drug-induced depressive state
+GOLD	Medcode	DEPRESSION	4639	[X]Depressive episode
+GOLD	Medcode	DEPRESSION	4677	Bipolar affective disorder, currently depressed
+GOLD	Medcode	DEPRESSION	47009	[X]Recurrent depress disorder cur epi severe with psyc symp
+GOLD	Medcode	DEPRESSION	47731	[X]Other recurrent depressive disorders
+GOLD	Medcode	DEPRESSION	4824	C/O - feeling depressed
+GOLD	Medcode	DEPRESSION	4979	[X]Postpartum depression NOS
+GOLD	Medcode	DEPRESSION	51258	Depression monitoring administration
+GOLD	Medcode	DEPRESSION	52678	[X]Single episode of psychogenic depressive psychosis
+GOLD	Medcode	DEPRESSION	543	[X]Depression NOS
+GOLD	Medcode	DEPRESSION	55384	Recurrent major depressive episodes, in full remission
+GOLD	Medcode	DEPRESSION	56260	Manic-depression association member
+GOLD	Medcode	DEPRESSION	56273	Recurrent major depressive episodes,partial/unspec remission
+GOLD	Medcode	DEPRESSION	56609	[X]Single episode of masked depression NOS
+GOLD	Medcode	DEPRESSION	57409	Single major depressive episode, in full remission
+GOLD	Medcode	DEPRESSION	57465	Bipolar affective disorder, now depressed, in full remission
+GOLD	Medcode	DEPRESSION	5879	Agitated depression
+GOLD	Medcode	DEPRESSION	59386	[X]Single episode vital depression w'out psychotic symptoms
+GOLD	Medcode	DEPRESSION	595	Endogenous depression
+GOLD	Medcode	DEPRESSION	5987	[X] Reactive depression NOS
+GOLD	Medcode	DEPRESSION	60178	Other and unspecified manic-depressive psychoses
+GOLD	Medcode	DEPRESSION	63701	Bipolar affect disord, now depressed, severe with psychosis
+GOLD	Medcode	DEPRESSION	6482	Recurrent depression
+GOLD	Medcode	DEPRESSION	65435	Depression - enhanced service completed
+GOLD	Medcode	DEPRESSION	6546	Endogenous depression first episode
+GOLD	Medcode	DEPRESSION	655	Anxiety with depression
+GOLD	Medcode	DEPRESSION	66153	[X]Manic-depressive reaction
+GOLD	Medcode	DEPRESSION	6710	[X]Manic-depressive psychosis
+GOLD	Medcode	DEPRESSION	6854	[X]Other depressive episodes
+GOLD	Medcode	DEPRESSION	6932	Endogenous depression - recurrent
+GOLD	Medcode	DEPRESSION	6950	Endogenous depression first episode
+GOLD	Medcode	DEPRESSION	7011	Single major depressive episode NOS
+GOLD	Medcode	DEPRESSION	70399	Other mixed manic-depressive psychoses
+GOLD	Medcode	DEPRESSION	71009	Depression monitoring first letter
+GOLD	Medcode	DEPRESSION	72026	Bipolar affect disord, now depressed, part/unspec remission
+GOLD	Medcode	DEPRESSION	72966	Depression monitoring second letter
+GOLD	Medcode	DEPRESSION	73991	[X]Vital depression, recurrent without psychotic symptoms
+GOLD	Medcode	DEPRESSION	7604	[X]Single episode of reactive depression
+GOLD	Medcode	DEPRESSION	7737	[X]Neurotic depression
+GOLD	Medcode	DEPRESSION	7749	[X]Mild anxiety depression
+GOLD	Medcode	DEPRESSION	7953	[X]Dysthymia
+GOLD	Medcode	DEPRESSION	8478	Reactive depressive psychosis
+GOLD	Medcode	DEPRESSION	8584	[X]Depressive neurosis
+GOLD	Medcode	DEPRESSION	85852	Depression monitoring telephone invite
+GOLD	Medcode	DEPRESSION	8826	[X]SAD - Seasonal affective disorder
+GOLD	Medcode	DEPRESSION	8851	[X]Recurrent episodes of depressive reaction
+GOLD	Medcode	DEPRESSION	88644	Depression monitoring verbal invite
+GOLD	Medcode	DEPRESSION	8902	[X]Recurrent episodes of reactive depression
+GOLD	Medcode	DEPRESSION	9055	[X]Single episode of depressive reaction
+GOLD	Medcode	DEPRESSION	91105	Depression monitoring third letter
+GOLD	Medcode	DEPRESSION	9183	Masked depression
+GOLD	Medcode	DEPRESSION	9211	[X]Moderate depressive episode
+GOLD	Medcode	DEPRESSION	9667	[X]Severe depressive episode without psychotic symptoms
+GOLD	Medcode	DEPRESSION	96995	On full dose long term treatment depression - enh serv admin
+GOLD	Medcode	DEPRESSION	98252	[X]Major depression, moderately severe
+GOLD	Medcode	DEPRESSION	98346	[X]Major depression, mild
+GOLD	Medcode	DEPRESSION	98414	[X]Major depression, severe without psychotic symptoms
+GOLD	Medcode	DEPRESSION	98417	[X]Major depression, severe with psychotic symptoms
+GOLD	Medcode	HYPERTENSION	102406	Hypertension 9 month review
+GOLD	Medcode	HYPERTENSION	102458	[X]Other secondary hypertension
+GOLD	Medcode	HYPERTENSION	103046	Malignant hypertensive heart disease NOS
+GOLD	Medcode	HYPERTENSION	105274	Stage 2 hypertension (NICE - Nat Ins for Hth Clin Excl 2011)
+GOLD	Medcode	HYPERTENSION	105316	Stage 1 hypertension
+GOLD	Medcode	HYPERTENSION	105371	Stage 1 hypertension (NICE - Nat Ins for Hth Clin Excl 2011)
+GOLD	Medcode	HYPERTENSION	105480	Hypertension resistant to drug therapy
+GOLD	Medcode	HYPERTENSION	105487	Severe hypertension
+GOLD	Medcode	HYPERTENSION	105938	Benign hypertensive heart disease NOS
+GOLD	Medcode	HYPERTENSION	105989	Severe hypertension (Nat Inst for Health Clinical Ex 2011)
+GOLD	Medcode	HYPERTENSION	107704	Primary hypertension
+GOLD	Medcode	HYPERTENSION	108136	Stage 1 hyperten (NICE 2011) without evidnce end organ damge
+GOLD	Medcode	HYPERTENSION	10818	Essential hypertension NOS
+GOLD	Medcode	HYPERTENSION	109611	Hypertension self-management plan agreed
+GOLD	Medcode	HYPERTENSION	109771	Telehealth hypertension monitoring
+GOLD	Medcode	HYPERTENSION	109797	Stage 1 hyperten (NICE 2011) with evidnce end organ damge
+GOLD	Medcode	HYPERTENSION	11056	Patient on maximal tolerated antihypertensive therapy
+GOLD	Medcode	HYPERTENSION	110631	Hypertension self-management plan review
+GOLD	Medcode	HYPERTENSION	12680	Hypertension clinical management plan
+GOLD	Medcode	HYPERTENSION	12948	Hypertension treatm.stopped
+GOLD	Medcode	HYPERTENSION	13188	Hypertensive treatm.changed
+GOLD	Medcode	HYPERTENSION	15106	Hypertensive renal disease NOS
+GOLD	Medcode	HYPERTENSION	15377	Malignant essential hypertension
+GOLD	Medcode	HYPERTENSION	16059	Secondary hypertension NOS
+GOLD	Medcode	HYPERTENSION	16173	Hypertensive heart disease NOS
+GOLD	Medcode	HYPERTENSION	16292	Hypertensive heart disease
+GOLD	Medcode	HYPERTENSION	16565	Good hypertension control
+GOLD	Medcode	HYPERTENSION	17434	Nephrosclerosis
+GOLD	Medcode	HYPERTENSION	18057	Antihypertensive therapy
+GOLD	Medcode	HYPERTENSION	18482	Hypertension six month review
+GOLD	Medcode	HYPERTENSION	18590	Moderate hypertension control
+GOLD	Medcode	HYPERTENSION	18765	Other specified hypertensive disease
+GOLD	Medcode	HYPERTENSION	1894	Benign essential hypertension
+GOLD	Medcode	HYPERTENSION	19070	Hypertension annual review
+GOLD	Medcode	HYPERTENSION	204	Hypertensive disease
+GOLD	Medcode	HYPERTENSION	21826	Hypertension treatm. started
+GOLD	Medcode	HYPERTENSION	21837	Hypertensive heart&renal dis wth (congestive) heart failure
+GOLD	Medcode	HYPERTENSION	22333	Hypertension treatment refused
+GOLD	Medcode	HYPERTENSION	25371	Secondary benign renovascular hypertension
+GOLD	Medcode	HYPERTENSION	2666	H/O: hypertension
+GOLD	Medcode	HYPERTENSION	27511	Poor hypertension control
+GOLD	Medcode	HYPERTENSION	28684	Hypertensive heart and renal disease with renal failure
+GOLD	Medcode	HYPERTENSION	29310	Renal hypertension
+GOLD	Medcode	HYPERTENSION	30776	Hypertension:follow-up default
+GOLD	Medcode	HYPERTENSION	31341	Hypertension secondary to drug
+GOLD	Medcode	HYPERTENSION	31387	Secondary renovascular hypertension NOS
+GOLD	Medcode	HYPERTENSION	31464	Hypertensive heart disease NOS
+GOLD	Medcode	HYPERTENSION	31755	Secondary malignant hypertension
+GOLD	Medcode	HYPERTENSION	32423	Hypertensive renal disease with renal failure
+GOLD	Medcode	HYPERTENSION	3425	On treatment for hypertension
+GOLD	Medcode	HYPERTENSION	34744	Hypertension secondary to endocrine disorders
+GOLD	Medcode	HYPERTENSION	351	High blood pressure
+GOLD	Medcode	HYPERTENSION	3712	Hypertension NOS
+GOLD	Medcode	HYPERTENSION	39649	Malignant hypertensive renal disease
+GOLD	Medcode	HYPERTENSION	42229	Secondary hypertension NOS
+GOLD	Medcode	HYPERTENSION	4372	Systolic hypertension
+GOLD	Medcode	HYPERTENSION	43935	Benign hypertensive renal disease
+GOLD	Medcode	HYPERTENSION	4668	Hypertensive renal disease
+GOLD	Medcode	HYPERTENSION	50157	Malignant hypertensive heart disease
+GOLD	Medcode	HYPERTENSION	51635	Secondary benign hypertension NOS
+GOLD	Medcode	HYPERTENSION	52127	Benign hypertensive heart disease with CCF
+GOLD	Medcode	HYPERTENSION	52427	Benign hypertensive heart disease
+GOLD	Medcode	HYPERTENSION	5513	Referral to hypertension clinic
+GOLD	Medcode	HYPERTENSION	57288	Secondary benign hypertension
+GOLD	Medcode	HYPERTENSION	57987	Hyperten heart&renal dis+both(congestv)heart and renal fail
+GOLD	Medcode	HYPERTENSION	59383	Secondary malignant renovascular hypertension
+GOLD	Medcode	HYPERTENSION	61166	Hypertensive heart disease NOS without CCF
+GOLD	Medcode	HYPERTENSION	61660	Benign hypertensive heart disease without CCF
+GOLD	Medcode	HYPERTENSION	62718	Hypertensive heart disease NOS with CCF
+GOLD	Medcode	HYPERTENSION	63000	Benign hypertensive heart and renal disease
+GOLD	Medcode	HYPERTENSION	63466	Hypertensive heart and renal disease
+GOLD	Medcode	HYPERTENSION	67232	Malignant hypertensive heart and renal disease
+GOLD	Medcode	HYPERTENSION	68659	Hypertensive heart and renal disease NOS
+GOLD	Medcode	HYPERTENSION	69753	[X]Hypertensive diseases
+GOLD	Medcode	HYPERTENSION	7057	Hypertensive disease NOS
+GOLD	Medcode	HYPERTENSION	72668	Malignant hypertensive heart disease with CCF
+GOLD	Medcode	HYPERTENSION	7329	Secondary hypertension
+GOLD	Medcode	HYPERTENSION	73293	Secondary malignant hypertension NOS
+GOLD	Medcode	HYPERTENSION	799	Essential hypertension
+GOLD	Medcode	HYPERTENSION	83473	Diastolic hypertension
+GOLD	Medcode	HYPERTENSION	8732	BP - hypertensive disease
+GOLD	Medcode	HYPERTENSION	8857	Cardiomegaly - hypertensive
+GOLD	Medcode	HYPERTENSION	95334	Malignant hypertensive heart disease without CCF
+GOLD	Medcode	HYPERTENSION	95359	Trial withdrawal of antihypertensive therapy
+GOLD	Medcode	HYPERTENSION	97533	[X]Hypertension secondary to other renal disorders
+GOLD	Medcode	HYPERTENSION	98230	Lifestyle advice regarding hypertension
+GOLD	Medcode	HYPERTENSION	99259	Trial reduction of antihypertensive therapy
+GOLD	Medcode	TYPE 1 DIABETES	1038	Insulin dependent diabetes mellitus
+GOLD	Medcode	TYPE 1 DIABETES	10418	Type 1 diabetes mellitus with nephropathy
+GOLD	Medcode	TYPE 1 DIABETES	10692	Type 1 diabetes mellitus with ketoacidosis
+GOLD	Medcode	TYPE 1 DIABETES	12455	Type I diabetes mellitus
+GOLD	Medcode	TYPE 1 DIABETES	1549	Type 1 diabetes mellitus
+GOLD	Medcode	TYPE 1 DIABETES	1647	Insulin dependent diabetes mellitus
+GOLD	Medcode	TYPE 1 DIABETES	17545	Type I diabetes mellitus with diabetic cataract
+GOLD	Medcode	TYPE 1 DIABETES	17858	Type 1 diabetes mellitus
+GOLD	Medcode	TYPE 1 DIABETES	18230	Type 1 diabetes mellitus with neuropathic arthropathy
+GOLD	Medcode	TYPE 1 DIABETES	18387	Type 1 diabetes mellitus with retinopathy
+GOLD	Medcode	TYPE 1 DIABETES	18505	IDDM-Insulin dependent diabetes mellitus
+GOLD	Medcode	TYPE 1 DIABETES	18642	Type 1 diabetes mellitus with arthropathy
+GOLD	Medcode	TYPE 1 DIABETES	18683	Type 1 diabetes mellitus with ulcer
+GOLD	Medcode	TYPE 1 DIABETES	21983	Type 1 diabetes mellitus with renal complications
+GOLD	Medcode	TYPE 1 DIABETES	22871	Type 1 diabetes mellitus with exudative maculopathy
+GOLD	Medcode	TYPE 1 DIABETES	24423	Type I diabetes mellitus
+GOLD	Medcode	TYPE 1 DIABETES	24490	Diabetes mellitus, juvenile type, no mention of complication
+GOLD	Medcode	TYPE 1 DIABETES	24694	Insulin dependent diabetes mellitus with mononeuropathy
+GOLD	Medcode	TYPE 1 DIABETES	26855	Unstable insulin dependent diabetes mellitus
+GOLD	Medcode	TYPE 1 DIABETES	30294	Type 1 diabetes mellitus with persistent microalbuminuria
+GOLD	Medcode	TYPE 1 DIABETES	30323	Type 1 diabetes mellitus with persistent proteinuria
+GOLD	Medcode	TYPE 1 DIABETES	31310	Insulin dependent diabetes maturity onset
+GOLD	Medcode	TYPE 1 DIABETES	32359	Perceived control of insulin-dependent diabetes
+GOLD	Medcode	TYPE 1 DIABETES	35288	Type 1 diabetes mellitus - poor control
+GOLD	Medcode	TYPE 1 DIABETES	38076	Insulin lipohypertrophy
+GOLD	Medcode	TYPE 1 DIABETES	38161	Type I diabetes mellitus with retinopathy
+GOLD	Medcode	TYPE 1 DIABETES	39070	Type 1 diabetes mellitus with hypoglycaemic coma
+GOLD	Medcode	TYPE 1 DIABETES	39809	Insulin dependent diab mell with neuropathic arthropathy
+GOLD	Medcode	TYPE 1 DIABETES	40023	Diabetes mellitus, juvenile type, with hyperosmolar coma
+GOLD	Medcode	TYPE 1 DIABETES	40682	Type 1 diabetes mellitus maturity onset
+GOLD	Medcode	TYPE 1 DIABETES	40837	Type 1 diabetes mellitus with ketoacidotic coma
+GOLD	Medcode	TYPE 1 DIABETES	41049	Type 1 diabetes mellitus with retinopathy
+GOLD	Medcode	TYPE 1 DIABETES	41716	Insulin dependent diabetes mellitus with polyneuropathy
+GOLD	Medcode	TYPE 1 DIABETES	42567	Diabetes mellitus, juvenile type, with ketoacidotic coma
+GOLD	Medcode	TYPE 1 DIABETES	42729	Type I diabetes mellitus with hypoglycaemic coma
+GOLD	Medcode	TYPE 1 DIABETES	42831	Type 1 diabetes mellitus with neurological complications
+GOLD	Medcode	TYPE 1 DIABETES	43493	Insulin site lipohypertrophy
+GOLD	Medcode	TYPE 1 DIABETES	43921	Unstable type 1 diabetes mellitus
+GOLD	Medcode	TYPE 1 DIABETES	44260	Insulin dependent diabetes mellitus with diabetic cataract
+GOLD	Medcode	TYPE 1 DIABETES	44440	Insulin dependent diabetes mellitus with hypoglycaemic coma
+GOLD	Medcode	TYPE 1 DIABETES	44443	Insulin dependent diabetes mellitus with ulcer
+GOLD	Medcode	TYPE 1 DIABETES	45276	Insulin dependent diabetes mellitus with multiple complicat
+GOLD	Medcode	TYPE 1 DIABETES	45914	Type 1 diabetes mellitus - poor control
+GOLD	Medcode	TYPE 1 DIABETES	46301	Type 1 diabetes mellitus with polyneuropathy
+GOLD	Medcode	TYPE 1 DIABETES	46850	Type I diabetes mellitus - poor control
+GOLD	Medcode	TYPE 1 DIABETES	46963	Insulin-dependent diabetes mellitus with renal complications
+GOLD	Medcode	TYPE 1 DIABETES	47582	Type 1 diabetes mellitus with renal complications
+GOLD	Medcode	TYPE 1 DIABETES	47649	Type 1 diabetes mellitus with ophthalmic complications
+GOLD	Medcode	TYPE 1 DIABETES	47650	Type 1 diabetes mellitus with multiple complications
+GOLD	Medcode	TYPE 1 DIABETES	49146	Type I diabetes mellitus with neurological complications
+GOLD	Medcode	TYPE 1 DIABETES	49276	Insulin-dependent diabetes mellitus with ophthalmic comps
+GOLD	Medcode	TYPE 1 DIABETES	49554	Type 1 diabetes mellitus with diabetic cataract
+GOLD	Medcode	TYPE 1 DIABETES	49949	Unstable type I diabetes mellitus
+GOLD	Medcode	TYPE 1 DIABETES	50960	Pre-existing diabetes mellitus, insulin-dependent
+GOLD	Medcode	TYPE 1 DIABETES	51261	Insulin dependent diabetes mellitus
+GOLD	Medcode	TYPE 1 DIABETES	51957	Type I diabetes mellitus with ulcer
+GOLD	Medcode	TYPE 1 DIABETES	52104	Insulin dependent diabetes mellitus with multiple complicatn
+GOLD	Medcode	TYPE 1 DIABETES	52283	Insulin-dependent diabetes mellitus with neurological comps
+GOLD	Medcode	TYPE 1 DIABETES	53200	Diabetes mellitus, juvenile type, with ketoacidosis
+GOLD	Medcode	TYPE 1 DIABETES	54008	Type 1 diabetes mellitus with neuropathic arthropathy
+GOLD	Medcode	TYPE 1 DIABETES	54600	Unstable insulin dependent diabetes mellitus
+GOLD	Medcode	TYPE 1 DIABETES	55239	Type 1 diabetes mellitus with gastroparesis
+GOLD	Medcode	TYPE 1 DIABETES	56448	Insulin-dependent diabetes without complication
+GOLD	Medcode	TYPE 1 DIABETES	57621	Insulin dependent diabetes mellitus with nephropathy
+GOLD	Medcode	TYPE 1 DIABETES	60107	Unstable type I diabetes mellitus
+GOLD	Medcode	TYPE 1 DIABETES	60208	Type I diabetes mellitus with neuropathic arthropathy
+GOLD	Medcode	TYPE 1 DIABETES	60499	Insulin dependent diabetes mellitus with gangrene
+GOLD	Medcode	TYPE 1 DIABETES	61344	Type I diabetes mellitus with renal complications
+GOLD	Medcode	TYPE 1 DIABETES	61829	Type 1 diabetes mellitus with neurological complications
+GOLD	Medcode	TYPE 1 DIABETES	62209	Type I diabetes mellitus with ketoacidosis
+GOLD	Medcode	TYPE 1 DIABETES	62352	Type I diabetes mellitus with arthropathy
+GOLD	Medcode	TYPE 1 DIABETES	62613	Type I diabetes mellitus without complication
+GOLD	Medcode	TYPE 1 DIABETES	63017	Type I diabetes mellitus maturity onset
+GOLD	Medcode	TYPE 1 DIABETES	64446	Insulin dependent diab mell with peripheral angiopathy
+GOLD	Medcode	TYPE 1 DIABETES	6509	Insulin dependent diabetes mellitus with retinopathy
+GOLD	Medcode	TYPE 1 DIABETES	65616	Insulin dependent diabetes mellitus with arthropathy
+GOLD	Medcode	TYPE 1 DIABETES	66145	Type I diabetes mellitus with ketoacidotic coma
+GOLD	Medcode	TYPE 1 DIABETES	66872	Type I diabetes mellitus with nephropathy
+GOLD	Medcode	TYPE 1 DIABETES	67853	Diabetes mellitus, juvenile, + neurological manifestation
+GOLD	Medcode	TYPE 1 DIABETES	6791	Insulin dependent diabetes mellitus - poor control
+GOLD	Medcode	TYPE 1 DIABETES	68105	Type 1 diabetes mellitus with mononeuropathy
+GOLD	Medcode	TYPE 1 DIABETES	68390	Type 1 diabetes mellitus with ulcer
+GOLD	Medcode	TYPE 1 DIABETES	68792	Diabetes mellitus, juvenile type, + unspecified complication
+GOLD	Medcode	TYPE 1 DIABETES	69043	Dietary advice for type I diabetes
+GOLD	Medcode	TYPE 1 DIABETES	69124	IDDM with peripheral circulatory disorder
+GOLD	Medcode	TYPE 1 DIABETES	69676	Type 1 diabetes mellitus without complication
+GOLD	Medcode	TYPE 1 DIABETES	69748	Diabetes mellitus, juvenile type, + ophthalmic manifestation
+GOLD	Medcode	TYPE 1 DIABETES	69993	Type 1 diabetes mellitus with gangrene
+GOLD	Medcode	TYPE 1 DIABETES	70448	Diabetes mellitus, juvenile +peripheral circulatory disorder
+GOLD	Medcode	TYPE 1 DIABETES	70766	Type 1 diabetes mellitus with hypoglycaemic coma
+GOLD	Medcode	TYPE 1 DIABETES	72702	Insulin dependent diabetes mellitus - poor control
+GOLD	Medcode	TYPE 1 DIABETES	85660	Diabetes type 1 review
+GOLD	Medcode	TYPE 1 DIABETES	91942	Type I diabetes mellitus with multiple complications
+GOLD	Medcode	TYPE 1 DIABETES	91943	Type I diabetes mellitus with polyneuropathy
+GOLD	Medcode	TYPE 1 DIABETES	93468	Type 1 diabetes mellitus with peripheral angiopathy
+GOLD	Medcode	TYPE 1 DIABETES	93875	Insulin dependent diabetes mellitus with retinopathy
+GOLD	Medcode	TYPE 1 DIABETES	93878	Type I diabetes mellitus with ulcer
+GOLD	Medcode	TYPE 1 DIABETES	93922	Diabetes mellitus, juvenile type, with renal manifestation
+GOLD	Medcode	TYPE 1 DIABETES	95343	Type I diabetes mellitus with retinopathy
+GOLD	Medcode	TYPE 1 DIABETES	95992	Type I diabetes mellitus without complication
+GOLD	Medcode	TYPE 1 DIABETES	96235	Type I diabetes mellitus maturity onset
+GOLD	Medcode	TYPE 1 DIABETES	97446	Type 1 diabetes mellitus maturity onset
+GOLD	Medcode	TYPE 1 DIABETES	97474	Unstable type 1 diabetes mellitus
+GOLD	Medcode	TYPE 1 DIABETES	97849	Insulin dependent diabetes maturity onset
+GOLD	Medcode	TYPE 1 DIABETES	97894	Type I diabetes mellitus with exudative maculopathy
+GOLD	Medcode	TYPE 1 DIABETES	98071	Insulin-dependent diabetes mellitus with ophthalmic comps
+GOLD	Medcode	TYPE 1 DIABETES	98392	Maturity onset diabetes in youth type 1
+GOLD	Medcode	TYPE 1 DIABETES	98704	Insulin dependent diabetes mellitus with ulcer
+GOLD	Medcode	TYPE 2 DIABETES	100964	Type II diabetes mellitus with ophthalmic complications
+GOLD	Medcode	TYPE 2 DIABETES	101801	Type II diabetic dietary review
+GOLD	Medcode	TYPE 2 DIABETES	102201	Type II diabetes mellitus with nephropathy
+GOLD	Medcode	TYPE 2 DIABETES	102611	Type 2 diabetic dietary review
+GOLD	Medcode	TYPE 2 DIABETES	103902	Type II diabetes mellitus with arthropathy
+GOLD	Medcode	TYPE 2 DIABETES	104323	Type II diabetes mellitus with gangrene
+GOLD	Medcode	TYPE 2 DIABETES	104639	Type II diabetes mellitus with peripheral angiopathy
+GOLD	Medcode	TYPE 2 DIABETES	105784	Type 2 diabetes mellitus without complication
+GOLD	Medcode	TYPE 2 DIABETES	106061	Type II diabetes mellitus with ketoacidotic coma
+GOLD	Medcode	TYPE 2 DIABETES	106528	Type II diabetes mellitus with ketoacidosis
+GOLD	Medcode	TYPE 2 DIABETES	107701	Hyperosmolar non-ketotic state in type II diabetes mellitus
+GOLD	Medcode	TYPE 2 DIABETES	107824	Type II diabetes mellitus in remission
+GOLD	Medcode	TYPE 2 DIABETES	108005	Type 2 diabetes mellitus with multiple complications
+GOLD	Medcode	TYPE 2 DIABETES	109103	Type II diabetes mellitus without complication
+GOLD	Medcode	TYPE 2 DIABETES	109197	Type II diabetes mellitus with neuropathic arthropathy
+GOLD	Medcode	TYPE 2 DIABETES	109865	Type 2 diabetes mellitus with polyneuropathy
+GOLD	Medcode	TYPE 2 DIABETES	110344	Diabetic on non-insulin injectable medication
+GOLD	Medcode	TYPE 2 DIABETES	110379	Diabetic on oral treatment and glucagon-like peptide 1
+GOLD	Medcode	TYPE 2 DIABETES	111483	Diabetic on insulin and glucagon-like peptide 1
+GOLD	Medcode	TYPE 2 DIABETES	111798	Type II diabetes mellitus with exudative maculopathy
+GOLD	Medcode	TYPE 2 DIABETES	12640	Type 2 diabetes mellitus with nephropathy
+GOLD	Medcode	TYPE 2 DIABETES	12736	Type 2 diabetes mellitus with gangrene
+GOLD	Medcode	TYPE 2 DIABETES	1407	Insulin treated Type 2 diabetes mellitus
+GOLD	Medcode	TYPE 2 DIABETES	14803	Diabetes mellitus, adult onset, no mention of complication
+GOLD	Medcode	TYPE 2 DIABETES	14889	Maturity onset diabetes
+GOLD	Medcode	TYPE 2 DIABETES	1684	Diabetic on oral treatment
+GOLD	Medcode	TYPE 2 DIABETES	17262	Non-insulin-dependent diabetes mellitus with retinopathy
+GOLD	Medcode	TYPE 2 DIABETES	17859	Type 2 diabetes mellitus
+GOLD	Medcode	TYPE 2 DIABETES	18143	Type II diabetes mellitus with arthropathy
+GOLD	Medcode	TYPE 2 DIABETES	18209	Type 2 diabetes mellitus with renal complications
+GOLD	Medcode	TYPE 2 DIABETES	18219	Type II diabetes mellitus
+GOLD	Medcode	TYPE 2 DIABETES	18264	Insulin treated Type II diabetes mellitus
+GOLD	Medcode	TYPE 2 DIABETES	18278	Insulin treated Type 2 diabetes mellitus
+GOLD	Medcode	TYPE 2 DIABETES	18390	Type 2 diabetes mellitus with persistent microalbuminuria
+GOLD	Medcode	TYPE 2 DIABETES	18425	Type 2 diabetes mellitus with polyneuropathy
+GOLD	Medcode	TYPE 2 DIABETES	18496	Type 2 diabetes mellitus with retinopathy
+GOLD	Medcode	TYPE 2 DIABETES	18777	Type 2 diabetes mellitus with renal complications
+GOLD	Medcode	TYPE 2 DIABETES	22884	Type II diabetes mellitus
+GOLD	Medcode	TYPE 2 DIABETES	24458	Type II diabetes mellitus - poor control
+GOLD	Medcode	TYPE 2 DIABETES	24693	Non-insulin dependent diabetes mellitus with arthropathy
+GOLD	Medcode	TYPE 2 DIABETES	24836	Type 2 diabetes mellitus with nephropathy
+GOLD	Medcode	TYPE 2 DIABETES	25041	Dietary advice for type II diabetes
+GOLD	Medcode	TYPE 2 DIABETES	25591	Type 2 diabetes mellitus with exudative maculopathy
+GOLD	Medcode	TYPE 2 DIABETES	25627	Type 2 diabetes mellitus - poor control
+GOLD	Medcode	TYPE 2 DIABETES	26054	Type 2 diabetes mellitus with persistent proteinuria
+GOLD	Medcode	TYPE 2 DIABETES	28769	Diabetic on insulin and oral treatment
+GOLD	Medcode	TYPE 2 DIABETES	29979	Non-insulin-dependent diabetes mellitus without complication
+GOLD	Medcode	TYPE 2 DIABETES	32627	Type 2 diabetes mellitus with ketoacidosis
+GOLD	Medcode	TYPE 2 DIABETES	33807	Diabetes mellitus, adult with gangrene
+GOLD	Medcode	TYPE 2 DIABETES	34268	Type 2 diabetes mellitus with neurological complications
+GOLD	Medcode	TYPE 2 DIABETES	34450	Hyperosmolar non-ketotic state in type 2 diabetes mellitus
+GOLD	Medcode	TYPE 2 DIABETES	34912	Non-insulin dependent diabetes mellitus with ulcer
+GOLD	Medcode	TYPE 2 DIABETES	35105	Diabetes mellitus, adult onset, with renal manifestation
+GOLD	Medcode	TYPE 2 DIABETES	35385	Type 2 diabetes mellitus with neuropathic arthropathy
+GOLD	Medcode	TYPE 2 DIABETES	36633	Hyperosmolar non-ketotic state in type 2 diabetes mellitus
+GOLD	Medcode	TYPE 2 DIABETES	37648	Insulin treated non-insulin dependent diabetes mellitus
+GOLD	Medcode	TYPE 2 DIABETES	37806	Type 2 diabetes mellitus with peripheral angiopathy
+GOLD	Medcode	TYPE 2 DIABETES	39317	Diabetes mellitus, adult onset, + neurological manifestation
+GOLD	Medcode	TYPE 2 DIABETES	40401	Non-insulin dependent diabetes mellitus with gangrene
+GOLD	Medcode	TYPE 2 DIABETES	41389	Diabetes mellitus, adult onset, + ophthalmic manifestation
+GOLD	Medcode	TYPE 2 DIABETES	42762	Type 2 diabetes mellitus with retinopathy
+GOLD	Medcode	TYPE 2 DIABETES	43139	Diabetes mellitus, adult onset, with hyperosmolar coma
+GOLD	Medcode	TYPE 2 DIABETES	43227	Type II diabetes mellitus with multiple complications
+GOLD	Medcode	TYPE 2 DIABETES	43785	Non-insulin dependent diabetes mellitus with hypoglyca coma
+GOLD	Medcode	TYPE 2 DIABETES	44779	Type 2 diabetes mellitus with diabetic cataract
+GOLD	Medcode	TYPE 2 DIABETES	44982	Type 2 diabetes mellitus with diabetic cataract
+GOLD	Medcode	TYPE 2 DIABETES	4513	Non-insulin dependent diabetes mellitus
+GOLD	Medcode	TYPE 2 DIABETES	45467	Non-insulin dependent diabetes mellitus with polyneuropathy
+GOLD	Medcode	TYPE 2 DIABETES	45913	Type 2 diabetes mellitus - poor control
+GOLD	Medcode	TYPE 2 DIABETES	45919	Type 2 diabetes mellitus with neurological complications
+GOLD	Medcode	TYPE 2 DIABETES	46150	Type 2 diabetes mellitus with gangrene
+GOLD	Medcode	TYPE 2 DIABETES	46917	Type 2 diabetes mellitus with hypoglycaemic coma
+GOLD	Medcode	TYPE 2 DIABETES	47315	Type II diabetes mellitus - poor control
+GOLD	Medcode	TYPE 2 DIABETES	47321	Type 2 diabetes mellitus with ophthalmic complications
+GOLD	Medcode	TYPE 2 DIABETES	47409	Type II diabetes mellitus with polyneuropathy
+GOLD	Medcode	TYPE 2 DIABETES	47816	Type II diabetes mellitus with neuropathic arthropathy
+GOLD	Medcode	TYPE 2 DIABETES	47954	Type 2 diabetes mellitus without complication
+GOLD	Medcode	TYPE 2 DIABETES	48192	Type II diabetes mellitus with diabetic cataract
+GOLD	Medcode	TYPE 2 DIABETES	49074	Type 2 diabetes mellitus with ulcer
+GOLD	Medcode	TYPE 2 DIABETES	49655	Type II diabetes mellitus with retinopathy
+GOLD	Medcode	TYPE 2 DIABETES	49869	Type 2 diabetes mellitus with arthropathy
+GOLD	Medcode	TYPE 2 DIABETES	50225	Type II diabetes mellitus with renal complications
+GOLD	Medcode	TYPE 2 DIABETES	50429	Non-insulin-dependent diabetes mellitus with ophthalm comps
+GOLD	Medcode	TYPE 2 DIABETES	50527	Type II diabetes mellitus with polyneuropathy
+GOLD	Medcode	TYPE 2 DIABETES	506	Non-insulin dependent diabetes mellitus
+GOLD	Medcode	TYPE 2 DIABETES	50609	Pre-existing diabetes mellitus, non-insulin-dependent
+GOLD	Medcode	TYPE 2 DIABETES	50813	Type II diabetes mellitus with mononeuropathy
+GOLD	Medcode	TYPE 2 DIABETES	51756	Type 2 diabetes mellitus with ketoacidotic coma
+GOLD	Medcode	TYPE 2 DIABETES	52303	Non-insulin-dependent diabetes mellitus with renal comps
+GOLD	Medcode	TYPE 2 DIABETES	53392	Type II diabetes mellitus without complication
+GOLD	Medcode	TYPE 2 DIABETES	54856	Diabetes mellitus, adult onset, with ketoacidosis
+GOLD	Medcode	TYPE 2 DIABETES	54899	Type II diabetes mellitus with peripheral angiopathy
+GOLD	Medcode	TYPE 2 DIABETES	55075	Type II diabetes mellitus with ulcer
+GOLD	Medcode	TYPE 2 DIABETES	55842	Non-insulin-dependent diabetes mellitus with neuro comps
+GOLD	Medcode	TYPE 2 DIABETES	56268	Type II diabetes mellitus with hypoglycaemic coma
+GOLD	Medcode	TYPE 2 DIABETES	57278	Type II diabetes mellitus with renal complications
+GOLD	Medcode	TYPE 2 DIABETES	58604	Type II diabetes mellitus with retinopathy
+GOLD	Medcode	TYPE 2 DIABETES	5884	NIDDM - Non-insulin dependent diabetes mellitus
+GOLD	Medcode	TYPE 2 DIABETES	59253	Type 2 diabetes mellitus with arthropathy
+GOLD	Medcode	TYPE 2 DIABETES	59365	Non-insulin dependent diabetes mellitus with nephropathy
+GOLD	Medcode	TYPE 2 DIABETES	59725	Type II diabetes mellitus with ophthalmic complications
+GOLD	Medcode	TYPE 2 DIABETES	59991	Maturity onset diabetes in youth type 2
+GOLD	Medcode	TYPE 2 DIABETES	60699	Type 2 diabetes mellitus with peripheral angiopathy
+GOLD	Medcode	TYPE 2 DIABETES	60796	Type II diabetes mellitus with persistent proteinuria
+GOLD	Medcode	TYPE 2 DIABETES	61071	Type 2 diabetes mellitus with hypoglycaemic coma
+GOLD	Medcode	TYPE 2 DIABETES	62107	Type II diabetes mellitus with gangrene
+GOLD	Medcode	TYPE 2 DIABETES	62146	Non-insulin-dependent diabetes mellitus with multiple comps
+GOLD	Medcode	TYPE 2 DIABETES	62674	Type 2 diabetes mellitus with mononeuropathy
+GOLD	Medcode	TYPE 2 DIABETES	63357	Diabetes mellitus, adult, + peripheral circulatory disorder
+GOLD	Medcode	TYPE 2 DIABETES	63371	Diabetes mellitus, adult, + other specified manifestation
+GOLD	Medcode	TYPE 2 DIABETES	63690	Type 2 diabetes mellitus with gastroparesis
+GOLD	Medcode	TYPE 2 DIABETES	63762	Diabetes mellitus, adult onset, + unspecified complication
+GOLD	Medcode	TYPE 2 DIABETES	64571	Type II diabetes mellitus with nephropathy
+GOLD	Medcode	TYPE 2 DIABETES	64668	Insulin treated Type II diabetes mellitus
+GOLD	Medcode	TYPE 2 DIABETES	65267	Type 2 diabetes mellitus with multiple complications
+GOLD	Medcode	TYPE 2 DIABETES	65704	Type 2 diabetes mellitus with ulcer
+GOLD	Medcode	TYPE 2 DIABETES	66965	Type 2 diabetes mellitus with neuropathic arthropathy
+GOLD	Medcode	TYPE 2 DIABETES	67905	Type II diabetes mellitus with neurological complications
+GOLD	Medcode	TYPE 2 DIABETES	68843	Diabetes mellitus, adult onset, with ketoacidotic coma
+GOLD	Medcode	TYPE 2 DIABETES	69278	Non-insulin depend diabetes mellitus with diabetic cataract
+GOLD	Medcode	TYPE 2 DIABETES	70316	Type 2 diabetes mellitus with ophthalmic complications
+GOLD	Medcode	TYPE 2 DIABETES	72320	Non-insulin dependent diabetes mellitus with mononeuropathy
+GOLD	Medcode	TYPE 2 DIABETES	7563	Diabetic on diet only
+GOLD	Medcode	TYPE 2 DIABETES	758	Type 2 diabetes mellitus
+GOLD	Medcode	TYPE 2 DIABETES	83532	Diabetes type 2 review
+GOLD	Medcode	TYPE 2 DIABETES	8403	Non-insulin dependent diabetes mellitus - poor control
+GOLD	Medcode	TYPE 2 DIABETES	85991	Type II diabetes mellitus with persistent microalbuminuria
+GOLD	Medcode	TYPE 2 DIABETES	91646	Type II diabetes mellitus with ulcer
+GOLD	Medcode	TYPE 2 DIABETES	93727	Type II diabetes mellitus with diabetic cataract
+GOLD	Medcode	TYPE 2 DIABETES	95351	Type II diabetes mellitus with mononeuropathy
+GOLD	Medcode	TYPE 2 DIABETES	98616	Type II diabetes mellitus with neurological complications
+GOLD	Medcode	TYPE 2 DIABETES	98723	Type II diabetes mellitus with hypoglycaemic coma
+GOLD	Entity type	BMI	13	BMI
+GOLD	Entity type	BMI	14	BMI
+GOLD	Entity type	HBA1C	275	HbA1c
+GOLD	Entity type	LDL	177	LDL
+GOLD	Entity type	SMOKING	4	Smoking
+GOLD	Entity type	SYSTOLIC BLOOD PRESSURE	1	Systolic blood pressure
+GOLD	Entity type	EGFR	466	eGFR
